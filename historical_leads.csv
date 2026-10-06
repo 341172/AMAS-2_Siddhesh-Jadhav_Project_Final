@@ -1,0 +1,501 @@
+lead_id,company,contact_name,email,job_title,industry,monthly_orders,employees,seniority,current_setup,source,demo_requested,trial_started,pricing_views,site_visits,email_clicks,webinar_attended,days_since_last_activity,won
+H001,Past Lead 1,Past Contact,buyer1@pastlead1.in,Buyer,EdTech,364,6,VP / Head,Mostly COD / no gateway,Cold outbound,1,1,1,7,0,0,76,0
+H002,Past Lead 2,Past Contact,buyer2@pastlead2.in,Buyer,D2C / E-commerce brand,888,11,Manager,Built in-house,Inbound form,0,0,2,6,2,1,11,0
+H003,Past Lead 3,Past Contact,buyer3@gmail.com,Buyer,SaaS / Subscriptions,1370,32,Manager,Built in-house,Paid ads,1,1,1,10,5,0,19,0
+H004,Past Lead 4,Past Contact,buyer4@pastlead4.in,Buyer,Other,405,23,VP / Head,Using a competitor gateway,Referral,1,1,3,2,0,0,134,0
+H005,Past Lead 5,Past Contact,buyer5@pastlead5.in,Buyer,EdTech,6090,33,Founder / CXO,Mostly COD / no gateway,Inbound form,1,0,1,15,0,0,96,0
+H006,Past Lead 6,Past Contact,buyer6@gmail.com,Buyer,EdTech,1454,18,VP / Head,Built in-house,Inbound form,1,1,2,10,1,0,54,0
+H007,Past Lead 7,Past Contact,buyer7@gmail.com,Buyer,Offline retail going online,2617,4,Founder / CXO,Mostly COD / no gateway,Cold outbound,0,1,2,3,0,0,21,0
+H008,Past Lead 8,Past Contact,buyer8@pastlead8.in,Buyer,Other,6419,8,Individual contributor,Using a competitor gateway,Event,1,1,1,8,3,0,2,1
+H009,Past Lead 9,Past Contact,buyer9@pastlead9.in,Buyer,Online marketplace,1034,53,VP / Head,Mostly COD / no gateway,Event,0,0,0,6,6,0,29,0
+H010,Past Lead 10,Past Contact,buyer10@gmail.com,Buyer,D2C / E-commerce brand,537,26,Founder / CXO,Mostly COD / no gateway,Inbound form,0,0,2,0,3,0,71,0
+H011,Past Lead 11,Past Contact,buyer11@pastlead11.in,Buyer,Online marketplace,2602,79,Manager,Mostly COD / no gateway,Paid ads,1,1,0,14,6,0,53,1
+H012,Past Lead 12,Past Contact,buyer12@pastlead12.in,Buyer,Other,8598,155,Individual contributor,Mostly COD / no gateway,Referral,1,0,3,10,2,0,68,0
+H013,Past Lead 13,Past Contact,buyer13@pastlead13.in,Buyer,Travel & Hospitality,21503,177,Manager,Built in-house,Event,0,0,2,4,1,1,9,0
+H014,Past Lead 14,Past Contact,buyer14@pastlead14.in,Buyer,Other,3575,47,VP / Head,Built in-house,Event,0,0,3,8,4,0,3,0
+H015,Past Lead 15,Past Contact,buyer15@pastlead15.in,Buyer,Online marketplace,3233,23,Manager,Built in-house,Paid ads,0,0,0,14,1,0,1,0
+H016,Past Lead 16,Past Contact,buyer16@pastlead16.in,Buyer,SaaS / Subscriptions,2488,10,Founder / CXO,Built in-house,Event,0,0,2,9,4,0,1,1
+H017,Past Lead 17,Past Contact,buyer17@gmail.com,Buyer,Offline retail going online,2135,6,Manager,Using a competitor gateway,Inbound form,0,0,1,10,0,0,12,0
+H018,Past Lead 18,Past Contact,buyer18@pastlead18.in,Buyer,D2C / E-commerce brand,19833,18,Individual contributor,Using a competitor gateway,Paid ads,1,0,5,5,2,1,3,0
+H019,Past Lead 19,Past Contact,buyer19@pastlead19.in,Buyer,SaaS / Subscriptions,1230,41,VP / Head,Using a competitor gateway,Inbound form,0,0,1,12,4,0,3,0
+H020,Past Lead 20,Past Contact,buyer20@pastlead20.in,Buyer,Other,49401,31,Manager,Using a competitor gateway,Cold outbound,0,0,0,9,0,0,2,0
+H021,Past Lead 21,Past Contact,buyer21@pastlead21.in,Buyer,Other,2594,92,Founder / CXO,Using a competitor gateway,Inbound form,0,0,0,0,0,0,24,0
+H022,Past Lead 22,Past Contact,buyer22@pastlead22.in,Buyer,Other,10985,79,Manager,Using a competitor gateway,Inbound form,0,0,0,13,5,0,23,0
+H023,Past Lead 23,Past Contact,buyer23@pastlead23.in,Buyer,Offline retail going online,26496,379,Manager,Mostly COD / no gateway,Referral,1,0,6,12,6,0,55,0
+H024,Past Lead 24,Past Contact,buyer24@pastlead24.in,Buyer,Offline retail going online,4086,50,Manager,Using a competitor gateway,Paid ads,0,0,3,7,5,0,7,0
+H025,Past Lead 25,Past Contact,buyer25@pastlead25.in,Buyer,Offline retail going online,8834,5,VP / Head,Built in-house,Inbound form,0,0,6,3,5,0,33,0
+H026,Past Lead 26,Past Contact,buyer26@pastlead26.in,Buyer,D2C / E-commerce brand,472,32,Founder / CXO,Mostly COD / no gateway,Referral,1,0,0,11,1,0,96,0
+H027,Past Lead 27,Past Contact,buyer27@pastlead27.in,Buyer,Other,3888,32,Founder / CXO,Using a competitor gateway,Inbound form,1,1,1,10,6,0,14,0
+H028,Past Lead 28,Past Contact,buyer28@pastlead28.in,Buyer,Offline retail going online,2308,84,Founder / CXO,Using a competitor gateway,Inbound form,1,0,4,13,0,0,177,0
+H029,Past Lead 29,Past Contact,buyer29@pastlead29.in,Buyer,D2C / E-commerce brand,23557,47,Individual contributor,Using a competitor gateway,Referral,0,0,1,10,2,0,11,0
+H030,Past Lead 30,Past Contact,buyer30@pastlead30.in,Buyer,Online marketplace,521,135,VP / Head,Using a competitor gateway,Cold outbound,0,0,0,2,1,0,1,0
+H031,Past Lead 31,Past Contact,buyer31@pastlead31.in,Buyer,D2C / E-commerce brand,17022,65,VP / Head,Mostly COD / no gateway,Event,0,0,3,6,0,0,39,0
+H032,Past Lead 32,Past Contact,buyer32@pastlead32.in,Buyer,D2C / E-commerce brand,1881,35,Individual contributor,Built in-house,Cold outbound,0,0,0,4,1,0,21,0
+H033,Past Lead 33,Past Contact,buyer33@pastlead33.in,Buyer,SaaS / Subscriptions,4576,73,Individual contributor,Built in-house,Paid ads,0,0,2,13,5,0,19,0
+H034,Past Lead 34,Past Contact,buyer34@pastlead34.in,Buyer,D2C / E-commerce brand,1662,145,Founder / CXO,Mostly COD / no gateway,Referral,0,0,0,6,3,0,10,0
+H035,Past Lead 35,Past Contact,buyer35@pastlead35.in,Buyer,D2C / E-commerce brand,742,22,Founder / CXO,Using a competitor gateway,Paid ads,0,0,6,9,6,0,3,0
+H036,Past Lead 36,Past Contact,buyer36@gmail.com,Buyer,Other,2695,4,Individual contributor,Mostly COD / no gateway,Inbound form,0,0,0,1,1,0,14,0
+H037,Past Lead 37,Past Contact,buyer37@pastlead37.in,Buyer,D2C / E-commerce brand,474,39,VP / Head,Built in-house,Inbound form,0,0,0,0,0,0,5,0
+H038,Past Lead 38,Past Contact,buyer38@gmail.com,Buyer,Offline retail going online,3392,33,Individual contributor,Mostly COD / no gateway,Inbound form,0,0,2,7,6,0,6,0
+H039,Past Lead 39,Past Contact,buyer39@pastlead39.in,Buyer,D2C / E-commerce brand,2365,7,VP / Head,Using a competitor gateway,Inbound form,0,0,4,2,0,0,152,0
+H040,Past Lead 40,Past Contact,buyer40@pastlead40.in,Buyer,SaaS / Subscriptions,14163,324,Manager,Mostly COD / no gateway,Paid ads,1,1,1,2,4,0,12,0
+H041,Past Lead 41,Past Contact,buyer41@pastlead41.in,Buyer,Travel & Hospitality,971,49,VP / Head,Built in-house,Cold outbound,1,1,1,7,5,0,12,0
+H042,Past Lead 42,Past Contact,buyer42@pastlead42.in,Buyer,Online marketplace,1540,20,Individual contributor,Built in-house,Inbound form,1,1,0,7,5,0,10,0
+H043,Past Lead 43,Past Contact,buyer43@pastlead43.in,Buyer,Offline retail going online,2292,346,VP / Head,Mostly COD / no gateway,Inbound form,1,0,5,3,5,0,9,1
+H044,Past Lead 44,Past Contact,buyer44@pastlead44.in,Buyer,Online marketplace,14701,19,Founder / CXO,Mostly COD / no gateway,Paid ads,0,1,0,12,5,0,49,0
+H045,Past Lead 45,Past Contact,buyer45@pastlead45.in,Buyer,Other,8041,125,Founder / CXO,Using a competitor gateway,Paid ads,0,0,5,13,1,0,20,1
+H046,Past Lead 46,Past Contact,buyer46@pastlead46.in,Buyer,D2C / E-commerce brand,13630,242,Manager,Mostly COD / no gateway,Inbound form,1,0,5,3,3,0,12,0
+H047,Past Lead 47,Past Contact,buyer47@gmail.com,Buyer,SaaS / Subscriptions,241,133,Founder / CXO,Mostly COD / no gateway,Paid ads,0,0,1,6,0,0,8,0
+H048,Past Lead 48,Past Contact,buyer48@gmail.com,Buyer,Other,49500,58,VP / Head,Using a competitor gateway,Event,0,0,1,7,3,0,5,0
+H049,Past Lead 49,Past Contact,buyer49@pastlead49.in,Buyer,SaaS / Subscriptions,273,97,Founder / CXO,Using a competitor gateway,Inbound form,1,1,1,14,4,0,0,1
+H050,Past Lead 50,Past Contact,buyer50@pastlead50.in,Buyer,Offline retail going online,61762,4,Manager,Mostly COD / no gateway,Inbound form,0,0,6,5,5,0,69,0
+H051,Past Lead 51,Past Contact,buyer51@pastlead51.in,Buyer,EdTech,71120,32,Individual contributor,Using a competitor gateway,Inbound form,1,0,1,1,1,0,2,0
+H052,Past Lead 52,Past Contact,buyer52@gmail.com,Buyer,Offline retail going online,31160,41,Individual contributor,Using a competitor gateway,Cold outbound,0,0,4,8,3,0,9,0
+H053,Past Lead 53,Past Contact,buyer53@pastlead53.in,Buyer,Travel & Hospitality,19211,38,Individual contributor,Built in-house,Cold outbound,0,0,3,7,1,0,42,0
+H054,Past Lead 54,Past Contact,buyer54@gmail.com,Buyer,D2C / E-commerce brand,631,11,Founder / CXO,Built in-house,Inbound form,1,1,4,5,1,1,12,0
+H055,Past Lead 55,Past Contact,buyer55@gmail.com,Buyer,Offline retail going online,12495,68,VP / Head,Built in-house,Event,0,0,1,5,0,1,8,0
+H056,Past Lead 56,Past Contact,buyer56@pastlead56.in,Buyer,Online marketplace,1165,40,Manager,Using a competitor gateway,Paid ads,1,1,1,1,5,0,11,0
+H057,Past Lead 57,Past Contact,buyer57@pastlead57.in,Buyer,D2C / E-commerce brand,6329,49,Individual contributor,Built in-house,Cold outbound,1,1,2,13,5,0,31,1
+H058,Past Lead 58,Past Contact,buyer58@pastlead58.in,Buyer,D2C / E-commerce brand,338,2,VP / Head,Mostly COD / no gateway,Inbound form,0,0,6,15,3,0,11,1
+H059,Past Lead 59,Past Contact,buyer59@gmail.com,Buyer,Other,12601,53,Founder / CXO,Mostly COD / no gateway,Referral,1,0,1,4,5,1,23,0
+H060,Past Lead 60,Past Contact,buyer60@gmail.com,Buyer,Offline retail going online,5127,69,Founder / CXO,Mostly COD / no gateway,Inbound form,1,0,4,2,6,0,10,0
+H061,Past Lead 61,Past Contact,buyer61@pastlead61.in,Buyer,D2C / E-commerce brand,1893,8,VP / Head,Using a competitor gateway,Paid ads,0,0,0,0,6,0,6,0
+H062,Past Lead 62,Past Contact,buyer62@gmail.com,Buyer,Offline retail going online,5172,28,VP / Head,Mostly COD / no gateway,Referral,0,0,4,5,3,0,47,0
+H063,Past Lead 63,Past Contact,buyer63@pastlead63.in,Buyer,Other,1857,4,Manager,Mostly COD / no gateway,Paid ads,0,0,1,2,3,0,0,0
+H064,Past Lead 64,Past Contact,buyer64@pastlead64.in,Buyer,Travel & Hospitality,8326,44,Manager,Built in-house,Inbound form,0,0,3,5,3,0,12,0
+H065,Past Lead 65,Past Contact,buyer65@gmail.com,Buyer,Online marketplace,4126,584,Manager,Built in-house,Inbound form,1,1,2,5,1,0,154,0
+H066,Past Lead 66,Past Contact,buyer66@pastlead66.in,Buyer,D2C / E-commerce brand,2045,22,Individual contributor,Using a competitor gateway,Inbound form,0,1,1,13,5,0,10,0
+H067,Past Lead 67,Past Contact,buyer67@gmail.com,Buyer,D2C / E-commerce brand,12978,222,Manager,Built in-house,Cold outbound,0,0,4,5,5,1,35,0
+H068,Past Lead 68,Past Contact,buyer68@pastlead68.in,Buyer,Travel & Hospitality,1420,29,VP / Head,Built in-house,Paid ads,0,0,1,0,3,0,14,0
+H069,Past Lead 69,Past Contact,buyer69@pastlead69.in,Buyer,Other,1331,122,Founder / CXO,Using a competitor gateway,Event,0,0,2,13,5,0,3,0
+H070,Past Lead 70,Past Contact,buyer70@gmail.com,Buyer,D2C / E-commerce brand,1631,7,VP / Head,Built in-house,Paid ads,0,1,1,12,4,0,12,0
+H071,Past Lead 71,Past Contact,buyer71@pastlead71.in,Buyer,Offline retail going online,7388,42,Individual contributor,Using a competitor gateway,Paid ads,0,0,1,9,6,0,45,0
+H072,Past Lead 72,Past Contact,buyer72@pastlead72.in,Buyer,Online marketplace,3205,88,Manager,Using a competitor gateway,Event,0,0,3,11,1,0,13,0
+H073,Past Lead 73,Past Contact,buyer73@pastlead73.in,Buyer,Other,4502,57,Founder / CXO,Mostly COD / no gateway,Paid ads,1,1,0,7,1,0,87,0
+H074,Past Lead 74,Past Contact,buyer74@pastlead74.in,Buyer,Offline retail going online,182363,5,Manager,Built in-house,Paid ads,0,1,0,13,1,0,7,1
+H075,Past Lead 75,Past Contact,buyer75@gmail.com,Buyer,SaaS / Subscriptions,3985,122,Manager,Built in-house,Inbound form,0,0,6,2,1,0,10,0
+H076,Past Lead 76,Past Contact,buyer76@pastlead76.in,Buyer,D2C / E-commerce brand,3440,15,VP / Head,Mostly COD / no gateway,Inbound form,0,0,1,6,2,0,6,0
+H077,Past Lead 77,Past Contact,buyer77@pastlead77.in,Buyer,SaaS / Subscriptions,15790,12,Founder / CXO,Mostly COD / no gateway,Inbound form,1,0,2,1,3,0,40,0
+H078,Past Lead 78,Past Contact,buyer78@pastlead78.in,Buyer,SaaS / Subscriptions,7940,36,VP / Head,Mostly COD / no gateway,Paid ads,0,0,3,6,0,0,7,0
+H079,Past Lead 79,Past Contact,buyer79@pastlead79.in,Buyer,SaaS / Subscriptions,1145,653,Founder / CXO,Mostly COD / no gateway,Inbound form,0,0,5,1,3,0,160,0
+H080,Past Lead 80,Past Contact,buyer80@pastlead80.in,Buyer,EdTech,139621,206,VP / Head,Mostly COD / no gateway,Referral,0,0,2,13,0,1,10,0
+H081,Past Lead 81,Past Contact,buyer81@pastlead81.in,Buyer,D2C / E-commerce brand,8064,62,Founder / CXO,Built in-house,Paid ads,0,0,0,15,3,0,177,0
+H082,Past Lead 82,Past Contact,buyer82@gmail.com,Buyer,Offline retail going online,929,61,Individual contributor,Using a competitor gateway,Paid ads,1,0,3,15,5,0,107,0
+H083,Past Lead 83,Past Contact,buyer83@pastlead83.in,Buyer,SaaS / Subscriptions,13636,6,VP / Head,Using a competitor gateway,Referral,0,0,4,10,6,0,137,0
+H084,Past Lead 84,Past Contact,buyer84@pastlead84.in,Buyer,EdTech,9428,27,VP / Head,Using a competitor gateway,Inbound form,0,0,5,1,2,0,12,0
+H085,Past Lead 85,Past Contact,buyer85@pastlead85.in,Buyer,Online marketplace,18424,6,Manager,Mostly COD / no gateway,Paid ads,0,0,1,1,5,0,11,0
+H086,Past Lead 86,Past Contact,buyer86@pastlead86.in,Buyer,Offline retail going online,9434,157,Individual contributor,Built in-house,Inbound form,0,0,0,2,1,0,38,0
+H087,Past Lead 87,Past Contact,buyer87@pastlead87.in,Buyer,D2C / E-commerce brand,2868,118,Founder / CXO,Built in-house,Referral,1,0,0,6,6,0,7,0
+H088,Past Lead 88,Past Contact,buyer88@pastlead88.in,Buyer,Travel & Hospitality,5434,97,Individual contributor,Using a competitor gateway,Referral,1,0,5,14,3,0,19,1
+H089,Past Lead 89,Past Contact,buyer89@pastlead89.in,Buyer,Other,1054,62,VP / Head,Mostly COD / no gateway,Inbound form,1,0,0,8,2,1,168,0
+H090,Past Lead 90,Past Contact,buyer90@gmail.com,Buyer,SaaS / Subscriptions,988,114,VP / Head,Built in-house,Inbound form,1,1,0,15,3,0,24,0
+H091,Past Lead 91,Past Contact,buyer91@gmail.com,Buyer,D2C / E-commerce brand,841,208,VP / Head,Using a competitor gateway,Inbound form,1,1,1,10,1,0,60,0
+H092,Past Lead 92,Past Contact,buyer92@pastlead92.in,Buyer,D2C / E-commerce brand,130,25,VP / Head,Using a competitor gateway,Event,0,0,2,6,4,0,22,0
+H093,Past Lead 93,Past Contact,buyer93@pastlead93.in,Buyer,D2C / E-commerce brand,1765,25,Founder / CXO,Built in-house,Cold outbound,1,0,1,10,4,1,0,0
+H094,Past Lead 94,Past Contact,buyer94@gmail.com,Buyer,D2C / E-commerce brand,141,60,Founder / CXO,Mostly COD / no gateway,Cold outbound,0,0,0,4,4,0,10,0
+H095,Past Lead 95,Past Contact,buyer95@pastlead95.in,Buyer,SaaS / Subscriptions,4306,11,Individual contributor,Mostly COD / no gateway,Referral,0,0,5,8,1,0,13,0
+H096,Past Lead 96,Past Contact,buyer96@pastlead96.in,Buyer,SaaS / Subscriptions,4199,332,Individual contributor,Using a competitor gateway,Paid ads,0,0,5,9,6,1,46,0
+H097,Past Lead 97,Past Contact,buyer97@pastlead97.in,Buyer,D2C / E-commerce brand,1719,2,Founder / CXO,Mostly COD / no gateway,Cold outbound,0,0,4,14,4,0,105,0
+H098,Past Lead 98,Past Contact,buyer98@gmail.com,Buyer,SaaS / Subscriptions,2202,29,Manager,Mostly COD / no gateway,Inbound form,0,0,0,0,5,0,53,0
+H099,Past Lead 99,Past Contact,buyer99@pastlead99.in,Buyer,D2C / E-commerce brand,2326,345,Manager,Built in-house,Paid ads,0,0,4,1,2,0,92,0
+H100,Past Lead 100,Past Contact,buyer100@pastlead100.in,Buyer,EdTech,458,14,VP / Head,Using a competitor gateway,Paid ads,0,0,5,1,6,0,4,0
+H101,Past Lead 101,Past Contact,buyer101@gmail.com,Buyer,Travel & Hospitality,1154,2,VP / Head,Using a competitor gateway,Inbound form,1,1,6,8,0,0,8,0
+H102,Past Lead 102,Past Contact,buyer102@pastlead102.in,Buyer,D2C / E-commerce brand,454,189,Manager,Built in-house,Inbound form,0,0,5,9,4,0,13,0
+H103,Past Lead 103,Past Contact,buyer103@pastlead103.in,Buyer,EdTech,4955,4,Founder / CXO,Built in-house,Inbound form,1,0,0,1,6,1,138,0
+H104,Past Lead 104,Past Contact,buyer104@pastlead104.in,Buyer,Online marketplace,1198,13,VP / Head,Built in-house,Inbound form,0,0,4,3,5,0,45,0
+H105,Past Lead 105,Past Contact,buyer105@pastlead105.in,Buyer,D2C / E-commerce brand,18782,32,Manager,Using a competitor gateway,Paid ads,1,0,0,14,5,0,11,1
+H106,Past Lead 106,Past Contact,buyer106@pastlead106.in,Buyer,Offline retail going online,26880,16,Manager,Using a competitor gateway,Event,0,1,5,10,6,0,87,0
+H107,Past Lead 107,Past Contact,buyer107@pastlead107.in,Buyer,D2C / E-commerce brand,1426,14,VP / Head,Built in-house,Paid ads,0,0,0,11,3,0,10,0
+H108,Past Lead 108,Past Contact,buyer108@pastlead108.in,Buyer,D2C / E-commerce brand,1103,16,Individual contributor,Built in-house,Inbound form,0,0,0,10,2,0,13,0
+H109,Past Lead 109,Past Contact,buyer109@pastlead109.in,Buyer,EdTech,33833,46,Founder / CXO,Mostly COD / no gateway,Inbound form,1,0,0,1,5,0,15,1
+H110,Past Lead 110,Past Contact,buyer110@pastlead110.in,Buyer,D2C / E-commerce brand,17889,37,Founder / CXO,Built in-house,Inbound form,1,0,0,3,0,0,8,0
+H111,Past Lead 111,Past Contact,buyer111@pastlead111.in,Buyer,Online marketplace,11527,15,VP / Head,Mostly COD / no gateway,Inbound form,1,0,2,11,1,0,6,1
+H112,Past Lead 112,Past Contact,buyer112@pastlead112.in,Buyer,D2C / E-commerce brand,1823,44,Founder / CXO,Using a competitor gateway,Inbound form,0,0,1,2,1,0,10,0
+H113,Past Lead 113,Past Contact,buyer113@pastlead113.in,Buyer,SaaS / Subscriptions,10191,14,Founder / CXO,Using a competitor gateway,Inbound form,0,0,5,10,3,0,166,0
+H114,Past Lead 114,Past Contact,buyer114@pastlead114.in,Buyer,SaaS / Subscriptions,10569,15,Manager,Mostly COD / no gateway,Event,0,0,0,11,2,0,141,0
+H115,Past Lead 115,Past Contact,buyer115@pastlead115.in,Buyer,SaaS / Subscriptions,1215,3,VP / Head,Using a competitor gateway,Event,0,0,2,6,1,0,1,0
+H116,Past Lead 116,Past Contact,buyer116@pastlead116.in,Buyer,Online marketplace,21107,72,Founder / CXO,Mostly COD / no gateway,Referral,0,0,3,6,0,0,1,0
+H117,Past Lead 117,Past Contact,buyer117@pastlead117.in,Buyer,EdTech,1186,58,VP / Head,Built in-house,Paid ads,0,0,1,3,1,0,4,0
+H118,Past Lead 118,Past Contact,buyer118@pastlead118.in,Buyer,Offline retail going online,171,47,Individual contributor,Built in-house,Paid ads,0,0,0,13,5,0,75,0
+H119,Past Lead 119,Past Contact,buyer119@pastlead119.in,Buyer,D2C / E-commerce brand,35116,11,Founder / CXO,Using a competitor gateway,Inbound form,0,0,0,12,5,0,3,0
+H120,Past Lead 120,Past Contact,buyer120@gmail.com,Buyer,Online marketplace,33897,33,Manager,Using a competitor gateway,Paid ads,0,0,1,6,0,0,13,0
+H121,Past Lead 121,Past Contact,buyer121@pastlead121.in,Buyer,D2C / E-commerce brand,1186,4,Founder / CXO,Built in-house,Paid ads,0,0,0,14,1,0,5,0
+H122,Past Lead 122,Past Contact,buyer122@pastlead122.in,Buyer,D2C / E-commerce brand,185,54,Individual contributor,Using a competitor gateway,Paid ads,1,1,1,6,0,1,4,0
+H123,Past Lead 123,Past Contact,buyer123@pastlead123.in,Buyer,D2C / E-commerce brand,2962,14,Founder / CXO,Using a competitor gateway,Cold outbound,0,1,3,8,0,0,46,0
+H124,Past Lead 124,Past Contact,buyer124@pastlead124.in,Buyer,Travel & Hospitality,25401,50,Manager,Mostly COD / no gateway,Paid ads,0,0,0,5,0,0,34,0
+H125,Past Lead 125,Past Contact,buyer125@pastlead125.in,Buyer,EdTech,1900,22,Founder / CXO,Built in-house,Cold outbound,0,0,0,6,3,0,25,0
+H126,Past Lead 126,Past Contact,buyer126@pastlead126.in,Buyer,Travel & Hospitality,20287,15,Founder / CXO,Built in-house,Cold outbound,0,0,0,1,4,0,14,0
+H127,Past Lead 127,Past Contact,buyer127@pastlead127.in,Buyer,Other,1281,28,VP / Head,Mostly COD / no gateway,Event,0,0,1,4,3,0,164,0
+H128,Past Lead 128,Past Contact,buyer128@pastlead128.in,Buyer,SaaS / Subscriptions,1606,42,Manager,Mostly COD / no gateway,Paid ads,0,1,3,11,4,0,6,0
+H129,Past Lead 129,Past Contact,buyer129@pastlead129.in,Buyer,D2C / E-commerce brand,8695,225,Founder / CXO,Built in-house,Inbound form,0,0,0,3,5,0,71,0
+H130,Past Lead 130,Past Contact,buyer130@pastlead130.in,Buyer,SaaS / Subscriptions,4304,79,Individual contributor,Mostly COD / no gateway,Event,0,0,4,1,3,0,17,0
+H131,Past Lead 131,Past Contact,buyer131@pastlead131.in,Buyer,D2C / E-commerce brand,1790,71,VP / Head,Using a competitor gateway,Paid ads,0,1,0,7,2,0,8,0
+H132,Past Lead 132,Past Contact,buyer132@pastlead132.in,Buyer,Travel & Hospitality,1543,189,Manager,Using a competitor gateway,Inbound form,0,0,2,9,6,0,136,0
+H133,Past Lead 133,Past Contact,buyer133@pastlead133.in,Buyer,Offline retail going online,2576,37,Manager,Mostly COD / no gateway,Referral,0,0,2,15,1,0,90,0
+H134,Past Lead 134,Past Contact,buyer134@gmail.com,Buyer,Other,5034,13,VP / Head,Built in-house,Event,0,0,1,15,2,0,173,0
+H135,Past Lead 135,Past Contact,buyer135@pastlead135.in,Buyer,Online marketplace,1898,36,Manager,Built in-house,Event,1,0,5,3,6,0,55,0
+H136,Past Lead 136,Past Contact,buyer136@pastlead136.in,Buyer,Other,7523,246,Manager,Built in-house,Inbound form,0,0,1,10,5,0,12,0
+H137,Past Lead 137,Past Contact,buyer137@pastlead137.in,Buyer,EdTech,20521,28,VP / Head,Mostly COD / no gateway,Event,1,0,0,10,0,0,9,0
+H138,Past Lead 138,Past Contact,buyer138@pastlead138.in,Buyer,SaaS / Subscriptions,2783,20,Founder / CXO,Mostly COD / no gateway,Paid ads,1,1,0,14,1,0,4,1
+H139,Past Lead 139,Past Contact,buyer139@pastlead139.in,Buyer,D2C / E-commerce brand,24097,10,Founder / CXO,Using a competitor gateway,Cold outbound,1,1,3,15,3,0,12,1
+H140,Past Lead 140,Past Contact,buyer140@pastlead140.in,Buyer,SaaS / Subscriptions,5520,34,Individual contributor,Built in-house,Paid ads,1,1,3,10,1,1,28,1
+H141,Past Lead 141,Past Contact,buyer141@pastlead141.in,Buyer,EdTech,1248,82,Individual contributor,Built in-house,Inbound form,0,0,3,1,6,0,10,0
+H142,Past Lead 142,Past Contact,buyer142@pastlead142.in,Buyer,D2C / E-commerce brand,3398,82,Individual contributor,Mostly COD / no gateway,Inbound form,0,0,2,3,0,0,3,0
+H143,Past Lead 143,Past Contact,buyer143@gmail.com,Buyer,D2C / E-commerce brand,209,36,VP / Head,Using a competitor gateway,Event,1,0,0,0,0,0,147,0
+H144,Past Lead 144,Past Contact,buyer144@pastlead144.in,Buyer,Other,5963,19,VP / Head,Mostly COD / no gateway,Inbound form,1,1,0,15,1,0,122,0
+H145,Past Lead 145,Past Contact,buyer145@pastlead145.in,Buyer,Offline retail going online,11857,19,Individual contributor,Mostly COD / no gateway,Inbound form,0,0,0,1,6,0,38,0
+H146,Past Lead 146,Past Contact,buyer146@gmail.com,Buyer,D2C / E-commerce brand,7541,5,Founder / CXO,Using a competitor gateway,Paid ads,0,0,1,1,4,0,12,0
+H147,Past Lead 147,Past Contact,buyer147@pastlead147.in,Buyer,Travel & Hospitality,23279,38,Founder / CXO,Built in-house,Inbound form,0,0,0,11,6,0,105,0
+H148,Past Lead 148,Past Contact,buyer148@pastlead148.in,Buyer,Online marketplace,17697,25,VP / Head,Using a competitor gateway,Event,0,0,5,8,3,0,110,0
+H149,Past Lead 149,Past Contact,buyer149@pastlead149.in,Buyer,EdTech,15893,51,Founder / CXO,Mostly COD / no gateway,Paid ads,1,0,0,1,3,0,5,0
+H150,Past Lead 150,Past Contact,buyer150@pastlead150.in,Buyer,Online marketplace,3614,42,Manager,Built in-house,Cold outbound,0,1,6,8,4,0,35,0
+H151,Past Lead 151,Past Contact,buyer151@pastlead151.in,Buyer,Travel & Hospitality,3195,39,Founder / CXO,Mostly COD / no gateway,Referral,0,0,0,5,6,0,80,0
+H152,Past Lead 152,Past Contact,buyer152@pastlead152.in,Buyer,Offline retail going online,683,15,VP / Head,Mostly COD / no gateway,Inbound form,0,0,1,2,2,0,7,0
+H153,Past Lead 153,Past Contact,buyer153@pastlead153.in,Buyer,Offline retail going online,290,21,Founder / CXO,Using a competitor gateway,Event,0,0,2,0,4,0,26,0
+H154,Past Lead 154,Past Contact,buyer154@pastlead154.in,Buyer,D2C / E-commerce brand,40831,13,Manager,Built in-house,Paid ads,0,0,1,1,5,0,42,0
+H155,Past Lead 155,Past Contact,buyer155@pastlead155.in,Buyer,Offline retail going online,390,43,Founder / CXO,Mostly COD / no gateway,Referral,0,0,1,0,0,0,150,0
+H156,Past Lead 156,Past Contact,buyer156@gmail.com,Buyer,SaaS / Subscriptions,4729,126,VP / Head,Mostly COD / no gateway,Cold outbound,1,1,1,14,0,1,134,0
+H157,Past Lead 157,Past Contact,buyer157@pastlead157.in,Buyer,Offline retail going online,4739,119,VP / Head,Mostly COD / no gateway,Event,0,0,0,13,6,1,10,0
+H158,Past Lead 158,Past Contact,buyer158@pastlead158.in,Buyer,D2C / E-commerce brand,2202,168,Manager,Using a competitor gateway,Paid ads,1,1,1,13,6,0,4,1
+H159,Past Lead 159,Past Contact,buyer159@pastlead159.in,Buyer,SaaS / Subscriptions,3776,10,Founder / CXO,Built in-house,Event,1,1,2,13,4,0,32,0
+H160,Past Lead 160,Past Contact,buyer160@pastlead160.in,Buyer,SaaS / Subscriptions,26408,25,Founder / CXO,Mostly COD / no gateway,Paid ads,0,1,3,5,3,0,11,0
+H161,Past Lead 161,Past Contact,buyer161@pastlead161.in,Buyer,D2C / E-commerce brand,14262,22,VP / Head,Using a competitor gateway,Paid ads,1,1,3,1,1,0,29,0
+H162,Past Lead 162,Past Contact,buyer162@pastlead162.in,Buyer,EdTech,10578,29,VP / Head,Built in-house,Inbound form,0,0,0,4,5,0,5,0
+H163,Past Lead 163,Past Contact,buyer163@gmail.com,Buyer,Other,4399,11,VP / Head,Mostly COD / no gateway,Inbound form,1,1,2,2,1,1,135,0
+H164,Past Lead 164,Past Contact,buyer164@gmail.com,Buyer,Other,5977,20,Founder / CXO,Built in-house,Inbound form,1,0,4,14,0,0,1,1
+H165,Past Lead 165,Past Contact,buyer165@gmail.com,Buyer,Travel & Hospitality,2021,13,Founder / CXO,Built in-house,Paid ads,1,1,5,10,0,0,13,1
+H166,Past Lead 166,Past Contact,buyer166@gmail.com,Buyer,SaaS / Subscriptions,716,9,Manager,Using a competitor gateway,Cold outbound,1,0,6,7,5,0,8,1
+H167,Past Lead 167,Past Contact,buyer167@pastlead167.in,Buyer,Offline retail going online,7428,60,Founder / CXO,Using a competitor gateway,Cold outbound,0,0,0,3,0,0,29,0
+H168,Past Lead 168,Past Contact,buyer168@gmail.com,Buyer,Travel & Hospitality,10113,90,Manager,Using a competitor gateway,Event,1,1,5,13,0,1,24,0
+H169,Past Lead 169,Past Contact,buyer169@pastlead169.in,Buyer,Offline retail going online,18644,39,Founder / CXO,Built in-house,Paid ads,1,0,4,13,0,0,81,0
+H170,Past Lead 170,Past Contact,buyer170@pastlead170.in,Buyer,Online marketplace,2441,27,Manager,Mostly COD / no gateway,Inbound form,0,0,5,9,5,0,8,0
+H171,Past Lead 171,Past Contact,buyer171@pastlead171.in,Buyer,D2C / E-commerce brand,11594,12,Founder / CXO,Using a competitor gateway,Event,0,0,0,12,6,0,12,0
+H172,Past Lead 172,Past Contact,buyer172@pastlead172.in,Buyer,Online marketplace,21866,21,Manager,Mostly COD / no gateway,Cold outbound,0,0,0,4,2,0,111,0
+H173,Past Lead 173,Past Contact,buyer173@pastlead173.in,Buyer,D2C / E-commerce brand,638,26,Manager,Mostly COD / no gateway,Inbound form,0,0,5,12,2,0,2,0
+H174,Past Lead 174,Past Contact,buyer174@pastlead174.in,Buyer,SaaS / Subscriptions,37024,77,Manager,Mostly COD / no gateway,Cold outbound,1,1,2,8,5,0,155,0
+H175,Past Lead 175,Past Contact,buyer175@pastlead175.in,Buyer,Other,68485,4,VP / Head,Using a competitor gateway,Inbound form,0,0,1,1,5,0,5,0
+H176,Past Lead 176,Past Contact,buyer176@pastlead176.in,Buyer,Offline retail going online,2473,7,Manager,Mostly COD / no gateway,Cold outbound,1,0,6,7,2,0,131,0
+H177,Past Lead 177,Past Contact,buyer177@gmail.com,Buyer,Online marketplace,20519,22,Manager,Mostly COD / no gateway,Paid ads,1,1,2,1,1,0,8,0
+H178,Past Lead 178,Past Contact,buyer178@pastlead178.in,Buyer,Other,1355,20,Founder / CXO,Using a competitor gateway,Inbound form,1,0,1,3,1,0,125,0
+H179,Past Lead 179,Past Contact,buyer179@pastlead179.in,Buyer,EdTech,3421,134,VP / Head,Using a competitor gateway,Paid ads,0,0,4,3,2,0,129,0
+H180,Past Lead 180,Past Contact,buyer180@pastlead180.in,Buyer,D2C / E-commerce brand,408,161,VP / Head,Built in-house,Inbound form,1,0,6,3,6,0,13,1
+H181,Past Lead 181,Past Contact,buyer181@pastlead181.in,Buyer,D2C / E-commerce brand,27073,41,Individual contributor,Mostly COD / no gateway,Inbound form,0,0,0,0,6,0,3,0
+H182,Past Lead 182,Past Contact,buyer182@pastlead182.in,Buyer,Offline retail going online,313,95,Individual contributor,Mostly COD / no gateway,Paid ads,0,0,5,4,5,0,139,0
+H183,Past Lead 183,Past Contact,buyer183@pastlead183.in,Buyer,Travel & Hospitality,4253,110,VP / Head,Built in-house,Cold outbound,0,0,3,2,0,0,5,0
+H184,Past Lead 184,Past Contact,buyer184@pastlead184.in,Buyer,Travel & Hospitality,5102,41,VP / Head,Using a competitor gateway,Paid ads,1,1,2,6,4,0,168,0
+H185,Past Lead 185,Past Contact,buyer185@gmail.com,Buyer,D2C / E-commerce brand,1651,119,Founder / CXO,Mostly COD / no gateway,Inbound form,0,0,0,1,6,0,145,0
+H186,Past Lead 186,Past Contact,buyer186@pastlead186.in,Buyer,Online marketplace,10075,25,VP / Head,Using a competitor gateway,Paid ads,1,0,0,6,6,0,31,0
+H187,Past Lead 187,Past Contact,buyer187@gmail.com,Buyer,Offline retail going online,27051,12,Founder / CXO,Built in-house,Paid ads,0,0,1,5,4,0,5,0
+H188,Past Lead 188,Past Contact,buyer188@pastlead188.in,Buyer,SaaS / Subscriptions,2920,46,Founder / CXO,Using a competitor gateway,Paid ads,0,0,0,13,6,0,164,0
+H189,Past Lead 189,Past Contact,buyer189@gmail.com,Buyer,D2C / E-commerce brand,12934,71,Manager,Mostly COD / no gateway,Cold outbound,1,0,1,6,0,0,109,0
+H190,Past Lead 190,Past Contact,buyer190@pastlead190.in,Buyer,Travel & Hospitality,7332,83,Manager,Built in-house,Cold outbound,0,0,5,4,0,0,39,0
+H191,Past Lead 191,Past Contact,buyer191@pastlead191.in,Buyer,D2C / E-commerce brand,7502,5,Manager,Mostly COD / no gateway,Referral,0,0,0,1,3,0,29,0
+H192,Past Lead 192,Past Contact,buyer192@pastlead192.in,Buyer,D2C / E-commerce brand,7482,73,Manager,Mostly COD / no gateway,Event,0,0,5,2,6,1,20,0
+H193,Past Lead 193,Past Contact,buyer193@gmail.com,Buyer,SaaS / Subscriptions,17342,54,Manager,Built in-house,Paid ads,1,0,4,14,1,1,10,0
+H194,Past Lead 194,Past Contact,buyer194@pastlead194.in,Buyer,D2C / E-commerce brand,159343,25,Manager,Mostly COD / no gateway,Event,0,0,0,2,0,1,59,0
+H195,Past Lead 195,Past Contact,buyer195@pastlead195.in,Buyer,EdTech,8593,345,Founder / CXO,Built in-house,Inbound form,0,0,0,9,3,0,2,0
+H196,Past Lead 196,Past Contact,buyer196@pastlead196.in,Buyer,Other,1953,30,Founder / CXO,Using a competitor gateway,Cold outbound,1,0,4,10,6,1,65,0
+H197,Past Lead 197,Past Contact,buyer197@pastlead197.in,Buyer,EdTech,54512,9,Manager,Built in-house,Inbound form,0,0,2,2,5,0,4,0
+H198,Past Lead 198,Past Contact,buyer198@gmail.com,Buyer,Online marketplace,24410,69,VP / Head,Mostly COD / no gateway,Referral,0,0,2,4,5,1,1,0
+H199,Past Lead 199,Past Contact,buyer199@pastlead199.in,Buyer,D2C / E-commerce brand,2730,8,Individual contributor,Built in-house,Cold outbound,0,0,5,8,2,0,11,0
+H200,Past Lead 200,Past Contact,buyer200@gmail.com,Buyer,Offline retail going online,36648,5,Manager,Built in-house,Inbound form,1,0,4,1,3,0,1,1
+H201,Past Lead 201,Past Contact,buyer201@pastlead201.in,Buyer,Offline retail going online,1235,17,Manager,Mostly COD / no gateway,Cold outbound,0,0,3,0,1,0,14,0
+H202,Past Lead 202,Past Contact,buyer202@pastlead202.in,Buyer,D2C / E-commerce brand,44472,32,VP / Head,Built in-house,Event,0,0,5,7,3,0,1,0
+H203,Past Lead 203,Past Contact,buyer203@pastlead203.in,Buyer,EdTech,460,35,Manager,Using a competitor gateway,Inbound form,0,0,0,5,4,0,3,0
+H204,Past Lead 204,Past Contact,buyer204@pastlead204.in,Buyer,Offline retail going online,5703,5,Founder / CXO,Built in-house,Cold outbound,0,0,0,0,5,0,17,0
+H205,Past Lead 205,Past Contact,buyer205@gmail.com,Buyer,D2C / E-commerce brand,2365,107,Founder / CXO,Using a competitor gateway,Paid ads,0,0,0,14,5,1,3,0
+H206,Past Lead 206,Past Contact,buyer206@pastlead206.in,Buyer,Other,1932,13,Manager,Built in-house,Event,0,0,0,15,1,0,12,0
+H207,Past Lead 207,Past Contact,buyer207@gmail.com,Buyer,EdTech,1290,8,Founder / CXO,Mostly COD / no gateway,Inbound form,0,0,1,12,1,0,96,0
+H208,Past Lead 208,Past Contact,buyer208@pastlead208.in,Buyer,Other,1002,8,VP / Head,Using a competitor gateway,Inbound form,0,0,0,8,5,0,178,0
+H209,Past Lead 209,Past Contact,buyer209@pastlead209.in,Buyer,D2C / E-commerce brand,8417,26,Manager,Built in-house,Event,1,1,3,11,4,0,42,0
+H210,Past Lead 210,Past Contact,buyer210@pastlead210.in,Buyer,Online marketplace,31,2,Manager,Mostly COD / no gateway,Paid ads,0,0,4,0,3,0,143,0
+H211,Past Lead 211,Past Contact,buyer211@gmail.com,Buyer,Other,47698,29,Manager,Using a competitor gateway,Paid ads,0,0,3,4,1,0,14,0
+H212,Past Lead 212,Past Contact,buyer212@pastlead212.in,Buyer,Travel & Hospitality,49589,14,VP / Head,Mostly COD / no gateway,Paid ads,0,0,4,12,2,1,33,0
+H213,Past Lead 213,Past Contact,buyer213@pastlead213.in,Buyer,Travel & Hospitality,11204,240,Founder / CXO,Mostly COD / no gateway,Paid ads,0,0,2,6,0,0,6,0
+H214,Past Lead 214,Past Contact,buyer214@gmail.com,Buyer,D2C / E-commerce brand,9870,13,VP / Head,Mostly COD / no gateway,Event,1,1,1,8,2,1,1,1
+H215,Past Lead 215,Past Contact,buyer215@gmail.com,Buyer,Other,1761,6,Individual contributor,Mostly COD / no gateway,Paid ads,0,0,0,0,1,0,1,0
+H216,Past Lead 216,Past Contact,buyer216@gmail.com,Buyer,Offline retail going online,21571,33,Founder / CXO,Built in-house,Inbound form,0,0,3,13,4,0,11,0
+H217,Past Lead 217,Past Contact,buyer217@pastlead217.in,Buyer,D2C / E-commerce brand,10496,17,Individual contributor,Built in-house,Cold outbound,1,1,1,10,6,0,162,0
+H218,Past Lead 218,Past Contact,buyer218@pastlead218.in,Buyer,EdTech,1929,20,Manager,Mostly COD / no gateway,Event,1,1,2,11,5,0,8,0
+H219,Past Lead 219,Past Contact,buyer219@pastlead219.in,Buyer,SaaS / Subscriptions,4269,21,Manager,Built in-house,Cold outbound,0,1,1,8,1,1,14,0
+H220,Past Lead 220,Past Contact,buyer220@gmail.com,Buyer,Online marketplace,1814,3,Manager,Built in-house,Referral,1,0,0,3,5,1,138,0
+H221,Past Lead 221,Past Contact,buyer221@pastlead221.in,Buyer,Offline retail going online,3073,14,Individual contributor,Mostly COD / no gateway,Referral,0,0,3,12,3,0,2,0
+H222,Past Lead 222,Past Contact,buyer222@pastlead222.in,Buyer,D2C / E-commerce brand,12562,19,VP / Head,Built in-house,Inbound form,0,0,0,10,5,0,6,0
+H223,Past Lead 223,Past Contact,buyer223@pastlead223.in,Buyer,Offline retail going online,1544,13,VP / Head,Using a competitor gateway,Inbound form,1,0,1,7,6,0,18,0
+H224,Past Lead 224,Past Contact,buyer224@pastlead224.in,Buyer,EdTech,10318,40,Manager,Using a competitor gateway,Cold outbound,1,1,4,1,6,0,8,0
+H225,Past Lead 225,Past Contact,buyer225@pastlead225.in,Buyer,Offline retail going online,9530,8,Manager,Using a competitor gateway,Paid ads,1,0,1,15,3,0,10,0
+H226,Past Lead 226,Past Contact,buyer226@pastlead226.in,Buyer,Other,3530,111,Founder / CXO,Built in-house,Inbound form,0,0,0,1,3,0,6,0
+H227,Past Lead 227,Past Contact,buyer227@pastlead227.in,Buyer,D2C / E-commerce brand,4643,45,VP / Head,Built in-house,Inbound form,0,0,5,6,2,0,154,0
+H228,Past Lead 228,Past Contact,buyer228@pastlead228.in,Buyer,Travel & Hospitality,705,90,Founder / CXO,Built in-house,Event,0,0,1,1,1,0,169,0
+H229,Past Lead 229,Past Contact,buyer229@pastlead229.in,Buyer,SaaS / Subscriptions,42672,5,Manager,Using a competitor gateway,Inbound form,0,0,0,6,4,0,0,0
+H230,Past Lead 230,Past Contact,buyer230@gmail.com,Buyer,D2C / E-commerce brand,4224,277,Founder / CXO,Built in-house,Paid ads,1,0,2,6,2,0,6,0
+H231,Past Lead 231,Past Contact,buyer231@pastlead231.in,Buyer,Offline retail going online,35151,28,Founder / CXO,Mostly COD / no gateway,Cold outbound,1,0,0,6,1,0,6,0
+H232,Past Lead 232,Past Contact,buyer232@gmail.com,Buyer,Travel & Hospitality,1117,13,Manager,Built in-house,Event,0,0,0,4,4,0,1,0
+H233,Past Lead 233,Past Contact,buyer233@pastlead233.in,Buyer,Online marketplace,1055,223,VP / Head,Built in-house,Event,1,0,1,12,3,0,50,0
+H234,Past Lead 234,Past Contact,buyer234@pastlead234.in,Buyer,Offline retail going online,22133,60,Individual contributor,Built in-house,Event,0,0,0,0,4,0,7,0
+H235,Past Lead 235,Past Contact,buyer235@pastlead235.in,Buyer,Travel & Hospitality,11364,11,Manager,Using a competitor gateway,Referral,0,1,4,0,2,0,81,0
+H236,Past Lead 236,Past Contact,buyer236@pastlead236.in,Buyer,D2C / E-commerce brand,2250,31,Individual contributor,Mostly COD / no gateway,Cold outbound,0,0,0,4,3,0,46,0
+H237,Past Lead 237,Past Contact,buyer237@pastlead237.in,Buyer,Online marketplace,1667,24,Founder / CXO,Mostly COD / no gateway,Referral,0,0,0,5,0,0,147,0
+H238,Past Lead 238,Past Contact,buyer238@pastlead238.in,Buyer,EdTech,3133,90,Individual contributor,Using a competitor gateway,Paid ads,0,0,2,1,6,0,12,0
+H239,Past Lead 239,Past Contact,buyer239@pastlead239.in,Buyer,EdTech,48,41,Founder / CXO,Using a competitor gateway,Inbound form,0,0,5,0,6,0,6,0
+H240,Past Lead 240,Past Contact,buyer240@pastlead240.in,Buyer,Travel & Hospitality,12998,81,Founder / CXO,Built in-house,Paid ads,1,0,0,10,1,0,96,0
+H241,Past Lead 241,Past Contact,buyer241@pastlead241.in,Buyer,Offline retail going online,598,9,VP / Head,Built in-house,Inbound form,0,1,4,3,3,0,1,0
+H242,Past Lead 242,Past Contact,buyer242@pastlead242.in,Buyer,EdTech,2402,4,Founder / CXO,Built in-house,Cold outbound,0,0,2,8,3,0,148,0
+H243,Past Lead 243,Past Contact,buyer243@pastlead243.in,Buyer,Offline retail going online,281,49,Founder / CXO,Built in-house,Cold outbound,0,0,2,14,3,1,1,0
+H244,Past Lead 244,Past Contact,buyer244@pastlead244.in,Buyer,Other,1676,71,Founder / CXO,Built in-house,Inbound form,1,0,0,7,2,0,81,0
+H245,Past Lead 245,Past Contact,buyer245@gmail.com,Buyer,Offline retail going online,7885,121,Founder / CXO,Using a competitor gateway,Paid ads,0,0,0,14,3,0,31,0
+H246,Past Lead 246,Past Contact,buyer246@gmail.com,Buyer,Other,1346,41,VP / Head,Built in-house,Inbound form,1,1,1,3,1,0,36,0
+H247,Past Lead 247,Past Contact,buyer247@pastlead247.in,Buyer,EdTech,396,32,Manager,Built in-house,Paid ads,0,0,0,5,2,0,98,0
+H248,Past Lead 248,Past Contact,buyer248@pastlead248.in,Buyer,Travel & Hospitality,958,100,Individual contributor,Mostly COD / no gateway,Paid ads,0,1,0,13,0,0,5,0
+H249,Past Lead 249,Past Contact,buyer249@pastlead249.in,Buyer,Travel & Hospitality,1686,73,Individual contributor,Using a competitor gateway,Event,0,0,3,12,3,0,137,0
+H250,Past Lead 250,Past Contact,buyer250@gmail.com,Buyer,D2C / E-commerce brand,1534,51,Manager,Built in-house,Inbound form,0,0,2,5,1,0,162,0
+H251,Past Lead 251,Past Contact,buyer251@pastlead251.in,Buyer,Travel & Hospitality,5152,39,Founder / CXO,Using a competitor gateway,Inbound form,0,1,5,11,1,0,13,0
+H252,Past Lead 252,Past Contact,buyer252@pastlead252.in,Buyer,Offline retail going online,3200,275,Founder / CXO,Mostly COD / no gateway,Inbound form,0,0,1,2,3,0,160,0
+H253,Past Lead 253,Past Contact,buyer253@pastlead253.in,Buyer,EdTech,9576,50,Manager,Mostly COD / no gateway,Inbound form,1,1,2,6,4,0,3,1
+H254,Past Lead 254,Past Contact,buyer254@pastlead254.in,Buyer,D2C / E-commerce brand,2967,148,VP / Head,Built in-house,Inbound form,1,1,4,2,1,1,85,1
+H255,Past Lead 255,Past Contact,buyer255@pastlead255.in,Buyer,SaaS / Subscriptions,3887,69,Manager,Using a competitor gateway,Referral,0,0,0,2,3,0,58,0
+H256,Past Lead 256,Past Contact,buyer256@pastlead256.in,Buyer,Offline retail going online,1021,4,Manager,Using a competitor gateway,Inbound form,0,0,4,5,3,0,23,0
+H257,Past Lead 257,Past Contact,buyer257@pastlead257.in,Buyer,Other,6745,13,Founder / CXO,Using a competitor gateway,Referral,1,0,4,14,5,0,13,0
+H258,Past Lead 258,Past Contact,buyer258@pastlead258.in,Buyer,SaaS / Subscriptions,5281,15,Manager,Using a competitor gateway,Inbound form,0,1,0,3,6,0,7,0
+H259,Past Lead 259,Past Contact,buyer259@pastlead259.in,Buyer,Travel & Hospitality,4673,18,Manager,Built in-house,Event,0,0,1,11,5,0,13,1
+H260,Past Lead 260,Past Contact,buyer260@pastlead260.in,Buyer,Travel & Hospitality,2113,27,Individual contributor,Using a competitor gateway,Paid ads,1,1,0,5,3,1,3,0
+H261,Past Lead 261,Past Contact,buyer261@gmail.com,Buyer,Offline retail going online,19432,29,Individual contributor,Mostly COD / no gateway,Paid ads,0,1,3,7,2,1,2,0
+H262,Past Lead 262,Past Contact,buyer262@gmail.com,Buyer,D2C / E-commerce brand,789810,28,Manager,Built in-house,Inbound form,0,0,3,6,1,1,10,0
+H263,Past Lead 263,Past Contact,buyer263@pastlead263.in,Buyer,Offline retail going online,1239,6,Manager,Built in-house,Referral,0,0,1,13,2,1,103,0
+H264,Past Lead 264,Past Contact,buyer264@pastlead264.in,Buyer,EdTech,11162,99,Individual contributor,Mostly COD / no gateway,Paid ads,0,0,0,15,4,0,21,0
+H265,Past Lead 265,Past Contact,buyer265@pastlead265.in,Buyer,Offline retail going online,117,54,Individual contributor,Mostly COD / no gateway,Inbound form,0,0,0,11,4,0,25,0
+H266,Past Lead 266,Past Contact,buyer266@gmail.com,Buyer,Offline retail going online,2406,60,VP / Head,Mostly COD / no gateway,Paid ads,0,0,1,10,1,0,13,0
+H267,Past Lead 267,Past Contact,buyer267@pastlead267.in,Buyer,D2C / E-commerce brand,854,25,Founder / CXO,Built in-house,Event,0,0,3,0,3,0,58,0
+H268,Past Lead 268,Past Contact,buyer268@pastlead268.in,Buyer,Online marketplace,7540,50,Manager,Mostly COD / no gateway,Paid ads,0,0,2,15,5,0,2,0
+H269,Past Lead 269,Past Contact,buyer269@pastlead269.in,Buyer,Offline retail going online,20051,24,Individual contributor,Using a competitor gateway,Inbound form,0,0,3,3,0,0,52,0
+H270,Past Lead 270,Past Contact,buyer270@pastlead270.in,Buyer,Other,5824,32,Founder / CXO,Using a competitor gateway,Cold outbound,1,1,1,2,0,1,11,1
+H271,Past Lead 271,Past Contact,buyer271@pastlead271.in,Buyer,Other,32905,79,Individual contributor,Mostly COD / no gateway,Paid ads,1,1,5,15,4,0,24,1
+H272,Past Lead 272,Past Contact,buyer272@pastlead272.in,Buyer,Other,512,84,Manager,Using a competitor gateway,Referral,1,1,4,14,4,0,16,0
+H273,Past Lead 273,Past Contact,buyer273@pastlead273.in,Buyer,EdTech,1382,131,VP / Head,Built in-house,Paid ads,0,0,6,6,6,0,30,0
+H274,Past Lead 274,Past Contact,buyer274@pastlead274.in,Buyer,D2C / E-commerce brand,16570,6,Individual contributor,Using a competitor gateway,Inbound form,0,0,2,4,5,0,4,0
+H275,Past Lead 275,Past Contact,buyer275@pastlead275.in,Buyer,SaaS / Subscriptions,66363,16,Founder / CXO,Mostly COD / no gateway,Event,1,1,4,12,2,1,2,0
+H276,Past Lead 276,Past Contact,buyer276@pastlead276.in,Buyer,Offline retail going online,17929,40,Manager,Using a competitor gateway,Paid ads,0,0,0,11,2,1,12,0
+H277,Past Lead 277,Past Contact,buyer277@pastlead277.in,Buyer,Offline retail going online,22067,17,VP / Head,Mostly COD / no gateway,Inbound form,1,1,5,7,2,0,41,1
+H278,Past Lead 278,Past Contact,buyer278@pastlead278.in,Buyer,SaaS / Subscriptions,2386,19,Manager,Mostly COD / no gateway,Inbound form,1,0,2,14,5,0,48,0
+H279,Past Lead 279,Past Contact,buyer279@pastlead279.in,Buyer,Other,10686,3,Individual contributor,Using a competitor gateway,Cold outbound,1,0,2,6,3,0,34,0
+H280,Past Lead 280,Past Contact,buyer280@pastlead280.in,Buyer,Online marketplace,514,16,VP / Head,Mostly COD / no gateway,Referral,1,1,0,5,0,1,10,0
+H281,Past Lead 281,Past Contact,buyer281@pastlead281.in,Buyer,Online marketplace,8672,9,VP / Head,Using a competitor gateway,Inbound form,0,0,6,10,3,0,39,0
+H282,Past Lead 282,Past Contact,buyer282@pastlead282.in,Buyer,D2C / E-commerce brand,2042,18,Founder / CXO,Mostly COD / no gateway,Cold outbound,0,0,2,13,0,1,57,0
+H283,Past Lead 283,Past Contact,buyer283@pastlead283.in,Buyer,Offline retail going online,2536,10,Founder / CXO,Mostly COD / no gateway,Inbound form,1,1,0,6,4,0,166,0
+H284,Past Lead 284,Past Contact,buyer284@pastlead284.in,Buyer,Travel & Hospitality,6908,26,Founder / CXO,Built in-house,Cold outbound,0,0,2,0,2,0,5,0
+H285,Past Lead 285,Past Contact,buyer285@pastlead285.in,Buyer,Offline retail going online,3971,8,Manager,Built in-house,Inbound form,1,0,2,7,3,0,4,0
+H286,Past Lead 286,Past Contact,buyer286@pastlead286.in,Buyer,D2C / E-commerce brand,11594,11,Founder / CXO,Using a competitor gateway,Inbound form,0,0,4,5,3,0,8,0
+H287,Past Lead 287,Past Contact,buyer287@pastlead287.in,Buyer,EdTech,3014,152,Manager,Using a competitor gateway,Paid ads,0,0,1,4,4,0,65,0
+H288,Past Lead 288,Past Contact,buyer288@pastlead288.in,Buyer,Offline retail going online,13960,102,VP / Head,Using a competitor gateway,Cold outbound,0,0,2,5,1,1,14,0
+H289,Past Lead 289,Past Contact,buyer289@gmail.com,Buyer,D2C / E-commerce brand,7874,97,Manager,Using a competitor gateway,Referral,1,0,5,7,3,0,55,0
+H290,Past Lead 290,Past Contact,buyer290@pastlead290.in,Buyer,Travel & Hospitality,3438,51,VP / Head,Mostly COD / no gateway,Cold outbound,0,0,5,3,6,0,55,0
+H291,Past Lead 291,Past Contact,buyer291@pastlead291.in,Buyer,D2C / E-commerce brand,395,32,Founder / CXO,Mostly COD / no gateway,Paid ads,0,0,2,13,1,0,9,0
+H292,Past Lead 292,Past Contact,buyer292@gmail.com,Buyer,Offline retail going online,16959,17,Manager,Using a competitor gateway,Event,0,0,0,5,6,1,147,0
+H293,Past Lead 293,Past Contact,buyer293@pastlead293.in,Buyer,SaaS / Subscriptions,27215,33,VP / Head,Using a competitor gateway,Event,1,1,0,1,4,0,5,0
+H294,Past Lead 294,Past Contact,buyer294@gmail.com,Buyer,Travel & Hospitality,1295,169,Manager,Mostly COD / no gateway,Cold outbound,0,0,6,15,4,0,1,0
+H295,Past Lead 295,Past Contact,buyer295@pastlead295.in,Buyer,Offline retail going online,5253,156,Individual contributor,Using a competitor gateway,Referral,0,0,0,0,6,0,30,0
+H296,Past Lead 296,Past Contact,buyer296@pastlead296.in,Buyer,EdTech,17017,156,Manager,Built in-house,Referral,0,0,3,4,4,0,55,0
+H297,Past Lead 297,Past Contact,buyer297@pastlead297.in,Buyer,D2C / E-commerce brand,122,77,VP / Head,Mostly COD / no gateway,Paid ads,0,0,3,4,6,0,30,0
+H298,Past Lead 298,Past Contact,buyer298@pastlead298.in,Buyer,Travel & Hospitality,3096,23,Individual contributor,Mostly COD / no gateway,Inbound form,1,1,5,1,4,0,44,0
+H299,Past Lead 299,Past Contact,buyer299@pastlead299.in,Buyer,D2C / E-commerce brand,12079,12,Manager,Using a competitor gateway,Cold outbound,1,1,3,12,5,1,10,0
+H300,Past Lead 300,Past Contact,buyer300@pastlead300.in,Buyer,Other,520,53,Manager,Mostly COD / no gateway,Inbound form,1,1,4,14,6,0,2,1
+H301,Past Lead 301,Past Contact,buyer301@gmail.com,Buyer,D2C / E-commerce brand,20745,10,Founder / CXO,Using a competitor gateway,Paid ads,1,1,0,13,5,0,49,0
+H302,Past Lead 302,Past Contact,buyer302@gmail.com,Buyer,Online marketplace,1454,1,Manager,Using a competitor gateway,Inbound form,0,1,0,2,4,0,6,0
+H303,Past Lead 303,Past Contact,buyer303@pastlead303.in,Buyer,Offline retail going online,940,9,Individual contributor,Using a competitor gateway,Paid ads,0,0,0,12,5,0,6,0
+H304,Past Lead 304,Past Contact,buyer304@pastlead304.in,Buyer,Other,914,291,VP / Head,Mostly COD / no gateway,Inbound form,0,0,5,6,3,0,7,0
+H305,Past Lead 305,Past Contact,buyer305@pastlead305.in,Buyer,D2C / E-commerce brand,2411,136,Individual contributor,Built in-house,Inbound form,0,0,1,3,4,0,12,0
+H306,Past Lead 306,Past Contact,buyer306@pastlead306.in,Buyer,Travel & Hospitality,3173,18,VP / Head,Using a competitor gateway,Event,1,1,0,11,2,0,14,0
+H307,Past Lead 307,Past Contact,buyer307@pastlead307.in,Buyer,EdTech,1493,44,VP / Head,Mostly COD / no gateway,Event,0,0,0,15,2,1,40,0
+H308,Past Lead 308,Past Contact,buyer308@gmail.com,Buyer,D2C / E-commerce brand,184,435,Founder / CXO,Using a competitor gateway,Cold outbound,0,0,2,3,4,0,3,0
+H309,Past Lead 309,Past Contact,buyer309@pastlead309.in,Buyer,SaaS / Subscriptions,6676,36,Founder / CXO,Mostly COD / no gateway,Paid ads,1,0,2,12,0,0,51,0
+H310,Past Lead 310,Past Contact,buyer310@pastlead310.in,Buyer,SaaS / Subscriptions,2585,46,Individual contributor,Using a competitor gateway,Paid ads,1,0,0,8,2,0,23,0
+H311,Past Lead 311,Past Contact,buyer311@pastlead311.in,Buyer,Offline retail going online,1457,168,Founder / CXO,Using a competitor gateway,Inbound form,0,0,0,9,0,0,9,0
+H312,Past Lead 312,Past Contact,buyer312@pastlead312.in,Buyer,Other,29132,122,Manager,Built in-house,Referral,1,1,0,13,2,0,0,0
+H313,Past Lead 313,Past Contact,buyer313@pastlead313.in,Buyer,D2C / E-commerce brand,1646,19,VP / Head,Mostly COD / no gateway,Event,0,0,2,1,2,0,9,0
+H314,Past Lead 314,Past Contact,buyer314@pastlead314.in,Buyer,Online marketplace,1729,20,Manager,Mostly COD / no gateway,Event,0,0,1,1,1,0,127,0
+H315,Past Lead 315,Past Contact,buyer315@pastlead315.in,Buyer,D2C / E-commerce brand,2175,8,Founder / CXO,Built in-house,Referral,0,0,0,6,4,0,7,1
+H316,Past Lead 316,Past Contact,buyer316@gmail.com,Buyer,SaaS / Subscriptions,3885,43,Manager,Using a competitor gateway,Paid ads,0,0,0,4,0,0,8,0
+H317,Past Lead 317,Past Contact,buyer317@pastlead317.in,Buyer,Travel & Hospitality,1095,107,VP / Head,Using a competitor gateway,Inbound form,0,1,1,2,1,0,10,0
+H318,Past Lead 318,Past Contact,buyer318@pastlead318.in,Buyer,Offline retail going online,4561,24,Manager,Using a competitor gateway,Inbound form,0,0,0,4,0,0,10,0
+H319,Past Lead 319,Past Contact,buyer319@gmail.com,Buyer,Other,2397,84,VP / Head,Built in-house,Paid ads,0,1,3,15,6,0,112,0
+H320,Past Lead 320,Past Contact,buyer320@pastlead320.in,Buyer,D2C / E-commerce brand,3059,121,Manager,Built in-house,Inbound form,0,0,0,7,2,0,0,0
+H321,Past Lead 321,Past Contact,buyer321@pastlead321.in,Buyer,Offline retail going online,23291,73,Manager,Mostly COD / no gateway,Inbound form,0,0,1,1,2,0,3,0
+H322,Past Lead 322,Past Contact,buyer322@pastlead322.in,Buyer,Online marketplace,16106,162,Manager,Built in-house,Inbound form,1,0,1,1,1,0,10,0
+H323,Past Lead 323,Past Contact,buyer323@pastlead323.in,Buyer,EdTech,3042,25,Manager,Using a competitor gateway,Referral,0,0,0,9,6,0,177,0
+H324,Past Lead 324,Past Contact,buyer324@pastlead324.in,Buyer,Offline retail going online,3572,3,Individual contributor,Using a competitor gateway,Inbound form,0,0,3,14,1,0,28,0
+H325,Past Lead 325,Past Contact,buyer325@pastlead325.in,Buyer,Offline retail going online,217,7,Manager,Built in-house,Paid ads,1,1,1,10,0,0,26,1
+H326,Past Lead 326,Past Contact,buyer326@pastlead326.in,Buyer,Travel & Hospitality,824,69,VP / Head,Mostly COD / no gateway,Inbound form,1,1,4,4,4,0,14,1
+H327,Past Lead 327,Past Contact,buyer327@pastlead327.in,Buyer,D2C / E-commerce brand,808,16,Founder / CXO,Mostly COD / no gateway,Paid ads,1,0,1,15,3,0,115,0
+H328,Past Lead 328,Past Contact,buyer328@pastlead328.in,Buyer,D2C / E-commerce brand,4344,5,Individual contributor,Built in-house,Inbound form,0,0,0,8,0,0,13,0
+H329,Past Lead 329,Past Contact,buyer329@pastlead329.in,Buyer,Offline retail going online,34095,54,Manager,Built in-house,Paid ads,1,1,0,8,6,0,135,0
+H330,Past Lead 330,Past Contact,buyer330@gmail.com,Buyer,SaaS / Subscriptions,13428,15,Manager,Built in-house,Inbound form,1,1,4,10,2,0,90,0
+H331,Past Lead 331,Past Contact,buyer331@gmail.com,Buyer,EdTech,1059,107,Founder / CXO,Built in-house,Cold outbound,0,0,2,3,4,0,38,0
+H332,Past Lead 332,Past Contact,buyer332@pastlead332.in,Buyer,D2C / E-commerce brand,2877,207,Founder / CXO,Mostly COD / no gateway,Paid ads,1,1,4,3,4,0,12,1
+H333,Past Lead 333,Past Contact,buyer333@pastlead333.in,Buyer,D2C / E-commerce brand,1045,11,Manager,Built in-house,Inbound form,0,0,2,14,6,0,49,0
+H334,Past Lead 334,Past Contact,buyer334@pastlead334.in,Buyer,Offline retail going online,1955,39,Manager,Using a competitor gateway,Paid ads,0,0,0,8,5,1,5,0
+H335,Past Lead 335,Past Contact,buyer335@pastlead335.in,Buyer,Offline retail going online,2282,40,Individual contributor,Using a competitor gateway,Paid ads,0,0,1,11,3,0,163,0
+H336,Past Lead 336,Past Contact,buyer336@gmail.com,Buyer,D2C / E-commerce brand,16822,95,Individual contributor,Built in-house,Referral,0,1,0,14,5,0,61,1
+H337,Past Lead 337,Past Contact,buyer337@pastlead337.in,Buyer,D2C / E-commerce brand,8870,47,Founder / CXO,Built in-house,Cold outbound,0,0,6,8,0,0,12,1
+H338,Past Lead 338,Past Contact,buyer338@pastlead338.in,Buyer,SaaS / Subscriptions,371,6,Manager,Using a competitor gateway,Cold outbound,1,0,3,15,4,0,2,0
+H339,Past Lead 339,Past Contact,buyer339@pastlead339.in,Buyer,Travel & Hospitality,428,160,Founder / CXO,Using a competitor gateway,Inbound form,1,1,0,14,4,0,9,0
+H340,Past Lead 340,Past Contact,buyer340@pastlead340.in,Buyer,EdTech,4363,98,Manager,Mostly COD / no gateway,Cold outbound,1,1,0,8,2,1,99,0
+H341,Past Lead 341,Past Contact,buyer341@pastlead341.in,Buyer,Online marketplace,17468,49,VP / Head,Using a competitor gateway,Inbound form,1,0,1,0,6,0,14,0
+H342,Past Lead 342,Past Contact,buyer342@pastlead342.in,Buyer,D2C / E-commerce brand,2341,45,Manager,Using a competitor gateway,Inbound form,0,0,0,0,4,0,19,0
+H343,Past Lead 343,Past Contact,buyer343@pastlead343.in,Buyer,Other,881,116,Founder / CXO,Built in-house,Inbound form,0,0,2,12,4,0,13,0
+H344,Past Lead 344,Past Contact,buyer344@pastlead344.in,Buyer,D2C / E-commerce brand,16989,26,Founder / CXO,Using a competitor gateway,Inbound form,1,1,3,8,4,0,45,0
+H345,Past Lead 345,Past Contact,buyer345@pastlead345.in,Buyer,Travel & Hospitality,2132,92,Founder / CXO,Built in-house,Referral,0,0,0,5,5,1,137,0
+H346,Past Lead 346,Past Contact,buyer346@pastlead346.in,Buyer,D2C / E-commerce brand,716,51,Founder / CXO,Mostly COD / no gateway,Inbound form,0,0,1,15,1,0,7,0
+H347,Past Lead 347,Past Contact,buyer347@pastlead347.in,Buyer,D2C / E-commerce brand,7032,149,VP / Head,Mostly COD / no gateway,Referral,0,0,6,12,5,1,13,0
+H348,Past Lead 348,Past Contact,buyer348@gmail.com,Buyer,Travel & Hospitality,2369,93,Founder / CXO,Built in-house,Paid ads,0,0,1,4,1,0,13,0
+H349,Past Lead 349,Past Contact,buyer349@pastlead349.in,Buyer,SaaS / Subscriptions,3546,50,Founder / CXO,Built in-house,Cold outbound,1,0,1,10,1,0,130,0
+H350,Past Lead 350,Past Contact,buyer350@pastlead350.in,Buyer,Offline retail going online,10078,71,VP / Head,Built in-house,Referral,0,0,2,10,4,0,14,0
+H351,Past Lead 351,Past Contact,buyer351@pastlead351.in,Buyer,D2C / E-commerce brand,3219,342,Manager,Mostly COD / no gateway,Inbound form,0,0,2,7,3,0,58,0
+H352,Past Lead 352,Past Contact,buyer352@pastlead352.in,Buyer,Travel & Hospitality,729,73,Founder / CXO,Mostly COD / no gateway,Paid ads,1,1,1,1,2,0,2,0
+H353,Past Lead 353,Past Contact,buyer353@gmail.com,Buyer,Offline retail going online,2060,172,Individual contributor,Using a competitor gateway,Referral,1,1,0,12,0,1,1,0
+H354,Past Lead 354,Past Contact,buyer354@pastlead354.in,Buyer,D2C / E-commerce brand,85951,48,Manager,Using a competitor gateway,Inbound form,1,0,1,14,1,0,68,0
+H355,Past Lead 355,Past Contact,buyer355@pastlead355.in,Buyer,EdTech,72955,75,Manager,Built in-house,Referral,0,0,0,3,1,0,10,0
+H356,Past Lead 356,Past Contact,buyer356@pastlead356.in,Buyer,D2C / E-commerce brand,1618,28,VP / Head,Mostly COD / no gateway,Event,1,0,3,7,0,0,87,0
+H357,Past Lead 357,Past Contact,buyer357@pastlead357.in,Buyer,Other,4546,100,Manager,Built in-house,Referral,0,0,5,2,6,1,7,0
+H358,Past Lead 358,Past Contact,buyer358@pastlead358.in,Buyer,Other,1039,56,VP / Head,Mostly COD / no gateway,Inbound form,0,0,4,4,5,0,160,0
+H359,Past Lead 359,Past Contact,buyer359@pastlead359.in,Buyer,SaaS / Subscriptions,1412,3,Manager,Mostly COD / no gateway,Cold outbound,1,0,0,3,4,0,20,0
+H360,Past Lead 360,Past Contact,buyer360@pastlead360.in,Buyer,Other,2605,58,Individual contributor,Built in-house,Event,0,0,6,9,6,0,2,0
+H361,Past Lead 361,Past Contact,buyer361@pastlead361.in,Buyer,D2C / E-commerce brand,10789,22,Manager,Using a competitor gateway,Paid ads,1,0,1,1,3,0,8,0
+H362,Past Lead 362,Past Contact,buyer362@pastlead362.in,Buyer,D2C / E-commerce brand,974,20,Manager,Using a competitor gateway,Paid ads,0,0,0,11,2,0,35,0
+H363,Past Lead 363,Past Contact,buyer363@pastlead363.in,Buyer,D2C / E-commerce brand,1324,24,VP / Head,Built in-house,Inbound form,0,0,2,7,2,0,129,0
+H364,Past Lead 364,Past Contact,buyer364@pastlead364.in,Buyer,SaaS / Subscriptions,2204,11,Founder / CXO,Using a competitor gateway,Inbound form,0,0,0,6,3,0,41,0
+H365,Past Lead 365,Past Contact,buyer365@pastlead365.in,Buyer,D2C / E-commerce brand,17261,112,Individual contributor,Using a competitor gateway,Inbound form,0,0,0,5,5,0,46,0
+H366,Past Lead 366,Past Contact,buyer366@gmail.com,Buyer,Online marketplace,8190,91,Founder / CXO,Using a competitor gateway,Event,1,0,0,7,5,1,8,0
+H367,Past Lead 367,Past Contact,buyer367@pastlead367.in,Buyer,Offline retail going online,2387,19,Founder / CXO,Using a competitor gateway,Inbound form,1,0,5,4,1,0,3,0
+H368,Past Lead 368,Past Contact,buyer368@gmail.com,Buyer,D2C / E-commerce brand,5402,83,Individual contributor,Mostly COD / no gateway,Paid ads,1,1,1,2,6,0,37,0
+H369,Past Lead 369,Past Contact,buyer369@pastlead369.in,Buyer,SaaS / Subscriptions,404,31,Manager,Built in-house,Referral,0,0,0,1,2,0,162,0
+H370,Past Lead 370,Past Contact,buyer370@gmail.com,Buyer,D2C / E-commerce brand,5035,24,Individual contributor,Mostly COD / no gateway,Inbound form,1,1,2,1,0,1,2,0
+H371,Past Lead 371,Past Contact,buyer371@pastlead371.in,Buyer,Offline retail going online,4786,11,Individual contributor,Using a competitor gateway,Paid ads,0,0,2,13,1,1,13,0
+H372,Past Lead 372,Past Contact,buyer372@pastlead372.in,Buyer,Travel & Hospitality,17080,51,VP / Head,Built in-house,Referral,0,0,4,7,2,0,34,0
+H373,Past Lead 373,Past Contact,buyer373@gmail.com,Buyer,Travel & Hospitality,5441,102,Manager,Using a competitor gateway,Paid ads,1,1,4,14,4,0,1,0
+H374,Past Lead 374,Past Contact,buyer374@pastlead374.in,Buyer,Travel & Hospitality,26687,38,VP / Head,Using a competitor gateway,Inbound form,1,0,0,0,4,0,5,0
+H375,Past Lead 375,Past Contact,buyer375@pastlead375.in,Buyer,EdTech,323,9,Manager,Mostly COD / no gateway,Paid ads,1,1,5,5,1,0,164,0
+H376,Past Lead 376,Past Contact,buyer376@pastlead376.in,Buyer,D2C / E-commerce brand,5436,5,Manager,Using a competitor gateway,Inbound form,1,1,1,1,5,0,3,0
+H377,Past Lead 377,Past Contact,buyer377@pastlead377.in,Buyer,EdTech,7675,40,VP / Head,Mostly COD / no gateway,Event,1,1,3,7,1,0,7,0
+H378,Past Lead 378,Past Contact,buyer378@pastlead378.in,Buyer,Travel & Hospitality,26680,74,Manager,Mostly COD / no gateway,Paid ads,1,1,4,14,3,1,56,1
+H379,Past Lead 379,Past Contact,buyer379@pastlead379.in,Buyer,SaaS / Subscriptions,788,35,VP / Head,Mostly COD / no gateway,Paid ads,0,0,0,7,2,1,5,0
+H380,Past Lead 380,Past Contact,buyer380@gmail.com,Buyer,Offline retail going online,805,77,VP / Head,Using a competitor gateway,Paid ads,0,1,0,10,2,0,3,0
+H381,Past Lead 381,Past Contact,buyer381@pastlead381.in,Buyer,Other,10837,25,Manager,Built in-house,Paid ads,0,0,0,2,3,1,14,0
+H382,Past Lead 382,Past Contact,buyer382@gmail.com,Buyer,Travel & Hospitality,7947,60,Manager,Built in-house,Paid ads,0,0,0,15,6,0,122,0
+H383,Past Lead 383,Past Contact,buyer383@pastlead383.in,Buyer,EdTech,2310,153,Manager,Using a competitor gateway,Event,0,0,3,15,1,0,47,0
+H384,Past Lead 384,Past Contact,buyer384@gmail.com,Buyer,Other,1275,19,VP / Head,Using a competitor gateway,Inbound form,0,0,0,6,5,1,37,0
+H385,Past Lead 385,Past Contact,buyer385@pastlead385.in,Buyer,EdTech,17433,30,Manager,Using a competitor gateway,Cold outbound,0,0,1,7,3,0,60,0
+H386,Past Lead 386,Past Contact,buyer386@pastlead386.in,Buyer,D2C / E-commerce brand,424,1,Founder / CXO,Mostly COD / no gateway,Paid ads,0,0,3,8,0,0,115,0
+H387,Past Lead 387,Past Contact,buyer387@pastlead387.in,Buyer,Online marketplace,19874,9,Founder / CXO,Using a competitor gateway,Inbound form,0,0,0,4,0,0,108,0
+H388,Past Lead 388,Past Contact,buyer388@pastlead388.in,Buyer,D2C / E-commerce brand,8359,29,Founder / CXO,Built in-house,Event,1,1,1,9,6,0,4,1
+H389,Past Lead 389,Past Contact,buyer389@gmail.com,Buyer,Offline retail going online,7226,37,Founder / CXO,Mostly COD / no gateway,Paid ads,1,1,3,15,2,1,35,0
+H390,Past Lead 390,Past Contact,buyer390@gmail.com,Buyer,Online marketplace,19784,72,Founder / CXO,Mostly COD / no gateway,Cold outbound,0,0,4,7,5,0,1,0
+H391,Past Lead 391,Past Contact,buyer391@pastlead391.in,Buyer,Offline retail going online,22079,34,VP / Head,Using a competitor gateway,Paid ads,0,0,6,9,3,0,38,0
+H392,Past Lead 392,Past Contact,buyer392@pastlead392.in,Buyer,D2C / E-commerce brand,1370,38,VP / Head,Built in-house,Paid ads,0,0,4,6,0,0,3,0
+H393,Past Lead 393,Past Contact,buyer393@pastlead393.in,Buyer,Other,1876,161,VP / Head,Built in-house,Referral,0,0,0,13,3,0,2,0
+H394,Past Lead 394,Past Contact,buyer394@pastlead394.in,Buyer,EdTech,8830,85,Manager,Mostly COD / no gateway,Event,0,0,1,7,3,0,13,0
+H395,Past Lead 395,Past Contact,buyer395@pastlead395.in,Buyer,SaaS / Subscriptions,2445,285,Founder / CXO,Using a competitor gateway,Inbound form,0,0,0,2,0,0,2,0
+H396,Past Lead 396,Past Contact,buyer396@gmail.com,Buyer,D2C / E-commerce brand,9946,94,VP / Head,Built in-house,Paid ads,0,0,2,5,3,0,24,0
+H397,Past Lead 397,Past Contact,buyer397@pastlead397.in,Buyer,Offline retail going online,5189,22,Manager,Mostly COD / no gateway,Inbound form,0,0,1,11,4,1,2,1
+H398,Past Lead 398,Past Contact,buyer398@gmail.com,Buyer,D2C / E-commerce brand,2769,33,Manager,Using a competitor gateway,Paid ads,0,1,1,2,1,0,8,0
+H399,Past Lead 399,Past Contact,buyer399@pastlead399.in,Buyer,EdTech,2397,19,Individual contributor,Built in-house,Cold outbound,0,0,0,7,2,0,16,0
+H400,Past Lead 400,Past Contact,buyer400@pastlead400.in,Buyer,SaaS / Subscriptions,7674,37,Manager,Using a competitor gateway,Event,1,0,2,0,5,0,4,0
+H401,Past Lead 401,Past Contact,buyer401@pastlead401.in,Buyer,D2C / E-commerce brand,4402,57,Individual contributor,Built in-house,Inbound form,1,0,0,8,5,1,70,0
+H402,Past Lead 402,Past Contact,buyer402@pastlead402.in,Buyer,EdTech,20754,9,Individual contributor,Built in-house,Event,0,0,0,5,6,0,59,0
+H403,Past Lead 403,Past Contact,buyer403@pastlead403.in,Buyer,D2C / E-commerce brand,46,12,Founder / CXO,Using a competitor gateway,Event,1,1,2,13,6,1,42,1
+H404,Past Lead 404,Past Contact,buyer404@gmail.com,Buyer,D2C / E-commerce brand,10100,50,Manager,Built in-house,Paid ads,0,0,3,1,6,1,3,0
+H405,Past Lead 405,Past Contact,buyer405@pastlead405.in,Buyer,Online marketplace,4793,14,Founder / CXO,Mostly COD / no gateway,Inbound form,0,0,3,11,5,0,35,0
+H406,Past Lead 406,Past Contact,buyer406@gmail.com,Buyer,D2C / E-commerce brand,19629,29,Manager,Built in-house,Inbound form,0,0,2,3,2,0,37,0
+H407,Past Lead 407,Past Contact,buyer407@pastlead407.in,Buyer,Travel & Hospitality,20558,68,VP / Head,Mostly COD / no gateway,Paid ads,0,1,0,11,0,0,101,0
+H408,Past Lead 408,Past Contact,buyer408@gmail.com,Buyer,D2C / E-commerce brand,1309,54,Founder / CXO,Using a competitor gateway,Cold outbound,1,0,5,1,4,0,30,0
+H409,Past Lead 409,Past Contact,buyer409@gmail.com,Buyer,SaaS / Subscriptions,960,92,VP / Head,Mostly COD / no gateway,Paid ads,1,0,1,6,3,0,149,0
+H410,Past Lead 410,Past Contact,buyer410@pastlead410.in,Buyer,D2C / E-commerce brand,9855,41,Founder / CXO,Mostly COD / no gateway,Event,0,0,4,4,1,0,52,0
+H411,Past Lead 411,Past Contact,buyer411@pastlead411.in,Buyer,Online marketplace,26638,195,Founder / CXO,Using a competitor gateway,Inbound form,1,1,6,14,1,0,49,0
+H412,Past Lead 412,Past Contact,buyer412@pastlead412.in,Buyer,SaaS / Subscriptions,9772,51,VP / Head,Built in-house,Inbound form,0,0,1,11,1,1,104,0
+H413,Past Lead 413,Past Contact,buyer413@gmail.com,Buyer,Online marketplace,6569,2,Founder / CXO,Built in-house,Cold outbound,1,1,3,4,0,0,10,0
+H414,Past Lead 414,Past Contact,buyer414@gmail.com,Buyer,Travel & Hospitality,18256,3,Individual contributor,Mostly COD / no gateway,Inbound form,1,1,2,2,1,0,178,0
+H415,Past Lead 415,Past Contact,buyer415@pastlead415.in,Buyer,D2C / E-commerce brand,6215,50,Manager,Mostly COD / no gateway,Event,0,0,0,3,4,0,8,0
+H416,Past Lead 416,Past Contact,buyer416@gmail.com,Buyer,Online marketplace,504,5,Manager,Built in-house,Referral,1,0,1,14,0,0,107,0
+H417,Past Lead 417,Past Contact,buyer417@gmail.com,Buyer,Other,11823,11,Founder / CXO,Using a competitor gateway,Referral,0,0,0,14,1,0,2,0
+H418,Past Lead 418,Past Contact,buyer418@pastlead418.in,Buyer,Online marketplace,3999,23,Manager,Built in-house,Paid ads,1,0,2,4,1,0,60,0
+H419,Past Lead 419,Past Contact,buyer419@gmail.com,Buyer,SaaS / Subscriptions,24136,60,Founder / CXO,Using a competitor gateway,Paid ads,1,0,5,3,5,0,8,0
+H420,Past Lead 420,Past Contact,buyer420@pastlead420.in,Buyer,Other,80815,24,Founder / CXO,Using a competitor gateway,Referral,1,0,0,9,4,0,30,1
+H421,Past Lead 421,Past Contact,buyer421@pastlead421.in,Buyer,D2C / E-commerce brand,7820,557,Manager,Mostly COD / no gateway,Referral,0,0,4,3,1,0,5,0
+H422,Past Lead 422,Past Contact,buyer422@gmail.com,Buyer,D2C / E-commerce brand,929,150,VP / Head,Using a competitor gateway,Paid ads,0,0,0,7,0,0,106,0
+H423,Past Lead 423,Past Contact,buyer423@pastlead423.in,Buyer,Other,915,4,Manager,Mostly COD / no gateway,Referral,0,0,4,4,0,1,40,0
+H424,Past Lead 424,Past Contact,buyer424@gmail.com,Buyer,D2C / E-commerce brand,796,11,Manager,Using a competitor gateway,Inbound form,0,0,5,14,3,0,87,0
+H425,Past Lead 425,Past Contact,buyer425@pastlead425.in,Buyer,EdTech,2645,224,Manager,Mostly COD / no gateway,Cold outbound,0,0,3,13,4,0,0,0
+H426,Past Lead 426,Past Contact,buyer426@pastlead426.in,Buyer,EdTech,853,4,Founder / CXO,Mostly COD / no gateway,Inbound form,1,0,2,3,3,0,5,0
+H427,Past Lead 427,Past Contact,buyer427@pastlead427.in,Buyer,Other,334,35,Manager,Mostly COD / no gateway,Inbound form,0,0,0,12,4,0,1,0
+H428,Past Lead 428,Past Contact,buyer428@pastlead428.in,Buyer,D2C / E-commerce brand,2731,449,VP / Head,Built in-house,Cold outbound,1,1,1,10,0,0,164,0
+H429,Past Lead 429,Past Contact,buyer429@pastlead429.in,Buyer,D2C / E-commerce brand,3185,176,Founder / CXO,Mostly COD / no gateway,Referral,0,0,1,4,3,0,27,0
+H430,Past Lead 430,Past Contact,buyer430@pastlead430.in,Buyer,EdTech,490,16,Manager,Mostly COD / no gateway,Event,0,0,4,10,2,1,36,0
+H431,Past Lead 431,Past Contact,buyer431@pastlead431.in,Buyer,Online marketplace,4179,10,Founder / CXO,Built in-house,Paid ads,0,0,2,8,3,0,37,0
+H432,Past Lead 432,Past Contact,buyer432@pastlead432.in,Buyer,D2C / E-commerce brand,2644,14,Manager,Mostly COD / no gateway,Referral,0,0,1,2,5,0,123,0
+H433,Past Lead 433,Past Contact,buyer433@pastlead433.in,Buyer,EdTech,4652,24,Manager,Built in-house,Cold outbound,1,0,1,4,1,0,50,1
+H434,Past Lead 434,Past Contact,buyer434@gmail.com,Buyer,Other,8610,57,Manager,Mostly COD / no gateway,Paid ads,0,1,4,10,2,0,59,0
+H435,Past Lead 435,Past Contact,buyer435@pastlead435.in,Buyer,Travel & Hospitality,831,58,VP / Head,Using a competitor gateway,Paid ads,0,0,2,15,3,0,4,0
+H436,Past Lead 436,Past Contact,buyer436@pastlead436.in,Buyer,Online marketplace,3241,22,Founder / CXO,Mostly COD / no gateway,Event,0,1,0,10,5,1,3,0
+H437,Past Lead 437,Past Contact,buyer437@pastlead437.in,Buyer,SaaS / Subscriptions,19785,32,Individual contributor,Using a competitor gateway,Paid ads,1,0,2,15,6,0,9,0
+H438,Past Lead 438,Past Contact,buyer438@gmail.com,Buyer,D2C / E-commerce brand,1923,46,Individual contributor,Using a competitor gateway,Inbound form,1,1,1,9,4,0,14,0
+H439,Past Lead 439,Past Contact,buyer439@pastlead439.in,Buyer,D2C / E-commerce brand,3111,173,Manager,Mostly COD / no gateway,Event,1,1,0,5,1,0,158,0
+H440,Past Lead 440,Past Contact,buyer440@pastlead440.in,Buyer,Other,2161,14,Founder / CXO,Using a competitor gateway,Inbound form,1,0,1,14,3,0,11,0
+H441,Past Lead 441,Past Contact,buyer441@pastlead441.in,Buyer,SaaS / Subscriptions,32060,227,VP / Head,Mostly COD / no gateway,Inbound form,1,0,0,1,2,0,4,0
+H442,Past Lead 442,Past Contact,buyer442@pastlead442.in,Buyer,D2C / E-commerce brand,112646,33,Manager,Using a competitor gateway,Inbound form,0,0,5,15,2,0,39,0
+H443,Past Lead 443,Past Contact,buyer443@pastlead443.in,Buyer,Other,11821,22,Manager,Mostly COD / no gateway,Paid ads,1,0,5,6,2,0,11,1
+H444,Past Lead 444,Past Contact,buyer444@pastlead444.in,Buyer,Offline retail going online,6494,100,VP / Head,Mostly COD / no gateway,Cold outbound,0,0,4,12,4,0,9,0
+H445,Past Lead 445,Past Contact,buyer445@pastlead445.in,Buyer,Offline retail going online,29854,61,Founder / CXO,Using a competitor gateway,Cold outbound,0,0,4,12,3,0,154,0
+H446,Past Lead 446,Past Contact,buyer446@pastlead446.in,Buyer,D2C / E-commerce brand,478,112,Manager,Mostly COD / no gateway,Cold outbound,0,0,0,8,0,0,47,0
+H447,Past Lead 447,Past Contact,buyer447@pastlead447.in,Buyer,Offline retail going online,7951,104,Individual contributor,Built in-house,Inbound form,0,0,2,2,4,0,58,0
+H448,Past Lead 448,Past Contact,buyer448@gmail.com,Buyer,EdTech,5083,54,Manager,Mostly COD / no gateway,Event,1,1,0,3,2,0,8,1
+H449,Past Lead 449,Past Contact,buyer449@gmail.com,Buyer,EdTech,17732,18,VP / Head,Mostly COD / no gateway,Inbound form,1,0,0,4,5,1,6,0
+H450,Past Lead 450,Past Contact,buyer450@pastlead450.in,Buyer,Offline retail going online,8900,38,VP / Head,Using a competitor gateway,Cold outbound,0,0,2,11,2,0,13,0
+H451,Past Lead 451,Past Contact,buyer451@pastlead451.in,Buyer,D2C / E-commerce brand,3731,70,Founder / CXO,Using a competitor gateway,Paid ads,1,0,4,15,1,0,175,0
+H452,Past Lead 452,Past Contact,buyer452@pastlead452.in,Buyer,Online marketplace,7257,112,Manager,Built in-house,Inbound form,0,1,3,12,6,0,7,1
+H453,Past Lead 453,Past Contact,buyer453@pastlead453.in,Buyer,Other,11451,27,Manager,Mostly COD / no gateway,Inbound form,1,0,1,14,3,0,1,0
+H454,Past Lead 454,Past Contact,buyer454@gmail.com,Buyer,D2C / E-commerce brand,7963,86,Founder / CXO,Mostly COD / no gateway,Referral,1,0,0,6,4,0,9,0
+H455,Past Lead 455,Past Contact,buyer455@pastlead455.in,Buyer,D2C / E-commerce brand,734,31,Founder / CXO,Built in-house,Paid ads,0,0,0,12,1,0,25,0
+H456,Past Lead 456,Past Contact,buyer456@gmail.com,Buyer,D2C / E-commerce brand,17667,27,Founder / CXO,Built in-house,Event,1,1,4,1,4,0,2,1
+H457,Past Lead 457,Past Contact,buyer457@gmail.com,Buyer,D2C / E-commerce brand,17899,69,Founder / CXO,Using a competitor gateway,Inbound form,0,0,5,8,4,1,33,0
+H458,Past Lead 458,Past Contact,buyer458@pastlead458.in,Buyer,D2C / E-commerce brand,2217,41,VP / Head,Mostly COD / no gateway,Paid ads,0,0,4,12,0,0,101,0
+H459,Past Lead 459,Past Contact,buyer459@pastlead459.in,Buyer,Online marketplace,3259,25,Individual contributor,Built in-house,Inbound form,1,0,3,4,5,0,128,0
+H460,Past Lead 460,Past Contact,buyer460@pastlead460.in,Buyer,EdTech,17258,34,Individual contributor,Using a competitor gateway,Paid ads,0,0,5,9,1,0,8,0
+H461,Past Lead 461,Past Contact,buyer461@pastlead461.in,Buyer,Online marketplace,2208,85,Manager,Built in-house,Cold outbound,0,1,5,1,5,1,38,0
+H462,Past Lead 462,Past Contact,buyer462@gmail.com,Buyer,Online marketplace,120727,10,Manager,Using a competitor gateway,Paid ads,1,1,3,11,0,0,7,0
+H463,Past Lead 463,Past Contact,buyer463@pastlead463.in,Buyer,D2C / E-commerce brand,9742,7,Manager,Built in-house,Paid ads,0,0,4,7,6,0,14,0
+H464,Past Lead 464,Past Contact,buyer464@pastlead464.in,Buyer,Offline retail going online,3455,33,Founder / CXO,Using a competitor gateway,Paid ads,1,1,0,10,2,0,12,0
+H465,Past Lead 465,Past Contact,buyer465@pastlead465.in,Buyer,Offline retail going online,8295,35,Manager,Built in-house,Referral,0,0,2,9,0,1,38,0
+H466,Past Lead 466,Past Contact,buyer466@pastlead466.in,Buyer,Other,1211,31,Manager,Mostly COD / no gateway,Cold outbound,0,0,2,14,3,0,59,0
+H467,Past Lead 467,Past Contact,buyer467@pastlead467.in,Buyer,D2C / E-commerce brand,42464,23,Manager,Using a competitor gateway,Inbound form,1,1,4,5,1,0,51,0
+H468,Past Lead 468,Past Contact,buyer468@pastlead468.in,Buyer,D2C / E-commerce brand,460,18,Individual contributor,Mostly COD / no gateway,Cold outbound,0,0,6,12,2,0,8,0
+H469,Past Lead 469,Past Contact,buyer469@gmail.com,Buyer,D2C / E-commerce brand,3472,156,Individual contributor,Using a competitor gateway,Cold outbound,1,0,1,7,6,1,137,0
+H470,Past Lead 470,Past Contact,buyer470@pastlead470.in,Buyer,Offline retail going online,3660,44,Manager,Using a competitor gateway,Event,1,1,3,5,0,0,14,0
+H471,Past Lead 471,Past Contact,buyer471@pastlead471.in,Buyer,EdTech,454,42,Manager,Built in-house,Inbound form,1,1,5,11,3,0,59,0
+H472,Past Lead 472,Past Contact,buyer472@pastlead472.in,Buyer,Other,2760,4,VP / Head,Built in-house,Referral,0,0,2,12,5,0,6,0
+H473,Past Lead 473,Past Contact,buyer473@pastlead473.in,Buyer,Online marketplace,3837,87,Individual contributor,Built in-house,Event,0,0,2,14,0,1,24,0
+H474,Past Lead 474,Past Contact,buyer474@pastlead474.in,Buyer,D2C / E-commerce brand,11780,14,VP / Head,Using a competitor gateway,Paid ads,0,0,0,2,4,0,8,0
+H475,Past Lead 475,Past Contact,buyer475@pastlead475.in,Buyer,SaaS / Subscriptions,802,105,VP / Head,Built in-house,Inbound form,0,0,3,6,3,0,31,0
+H476,Past Lead 476,Past Contact,buyer476@gmail.com,Buyer,Other,1912,5,VP / Head,Built in-house,Paid ads,0,0,6,11,4,0,9,0
+H477,Past Lead 477,Past Contact,buyer477@pastlead477.in,Buyer,D2C / E-commerce brand,1337,79,Founder / CXO,Using a competitor gateway,Paid ads,0,0,6,3,6,0,103,0
+H478,Past Lead 478,Past Contact,buyer478@gmail.com,Buyer,D2C / E-commerce brand,6159,28,Manager,Using a competitor gateway,Inbound form,0,0,0,4,0,0,7,0
+H479,Past Lead 479,Past Contact,buyer479@pastlead479.in,Buyer,D2C / E-commerce brand,1785,43,Manager,Built in-house,Inbound form,0,0,3,13,2,0,147,0
+H480,Past Lead 480,Past Contact,buyer480@pastlead480.in,Buyer,D2C / E-commerce brand,16274,68,VP / Head,Mostly COD / no gateway,Event,0,0,1,5,5,1,7,0
+H481,Past Lead 481,Past Contact,buyer481@pastlead481.in,Buyer,D2C / E-commerce brand,4193,40,Founder / CXO,Built in-house,Inbound form,0,1,0,3,4,0,172,0
+H482,Past Lead 482,Past Contact,buyer482@gmail.com,Buyer,D2C / E-commerce brand,70760,14,Founder / CXO,Using a competitor gateway,Inbound form,0,0,1,6,5,0,11,0
+H483,Past Lead 483,Past Contact,buyer483@pastlead483.in,Buyer,D2C / E-commerce brand,12660,199,Manager,Using a competitor gateway,Event,0,0,3,3,3,0,17,0
+H484,Past Lead 484,Past Contact,buyer484@pastlead484.in,Buyer,SaaS / Subscriptions,6176,17,Individual contributor,Mostly COD / no gateway,Inbound form,0,0,3,8,4,0,102,0
+H485,Past Lead 485,Past Contact,buyer485@pastlead485.in,Buyer,D2C / E-commerce brand,526,99,Individual contributor,Mostly COD / no gateway,Paid ads,1,1,0,12,3,0,5,1
+H486,Past Lead 486,Past Contact,buyer486@pastlead486.in,Buyer,D2C / E-commerce brand,4122,64,Individual contributor,Mostly COD / no gateway,Inbound form,0,0,1,11,3,0,50,0
+H487,Past Lead 487,Past Contact,buyer487@pastlead487.in,Buyer,EdTech,1065,106,VP / Head,Built in-house,Referral,0,0,2,14,4,0,5,0
+H488,Past Lead 488,Past Contact,buyer488@pastlead488.in,Buyer,SaaS / Subscriptions,668,20,Individual contributor,Mostly COD / no gateway,Inbound form,0,0,2,3,5,0,30,0
+H489,Past Lead 489,Past Contact,buyer489@gmail.com,Buyer,D2C / E-commerce brand,11167,38,VP / Head,Built in-house,Inbound form,0,0,0,11,3,1,38,0
+H490,Past Lead 490,Past Contact,buyer490@pastlead490.in,Buyer,Online marketplace,17590,54,Manager,Built in-house,Cold outbound,1,0,2,6,5,0,14,0
+H491,Past Lead 491,Past Contact,buyer491@pastlead491.in,Buyer,SaaS / Subscriptions,4410,31,Founder / CXO,Built in-house,Referral,0,0,3,8,3,0,3,0
+H492,Past Lead 492,Past Contact,buyer492@gmail.com,Buyer,EdTech,1958,234,VP / Head,Using a competitor gateway,Cold outbound,1,1,0,11,1,0,3,0
+H493,Past Lead 493,Past Contact,buyer493@pastlead493.in,Buyer,D2C / E-commerce brand,6354,107,Founder / CXO,Built in-house,Inbound form,0,0,2,11,6,0,2,0
+H494,Past Lead 494,Past Contact,buyer494@pastlead494.in,Buyer,D2C / E-commerce brand,19017,15,Manager,Built in-house,Paid ads,0,0,0,8,5,0,4,0
+H495,Past Lead 495,Past Contact,buyer495@pastlead495.in,Buyer,Offline retail going online,165,15,Manager,Built in-house,Event,1,1,2,5,0,0,36,1
+H496,Past Lead 496,Past Contact,buyer496@pastlead496.in,Buyer,Online marketplace,2531,59,Founder / CXO,Built in-house,Event,1,0,2,9,5,0,66,0
+H497,Past Lead 497,Past Contact,buyer497@pastlead497.in,Buyer,Online marketplace,3598,20,Manager,Using a competitor gateway,Inbound form,0,0,2,8,4,0,12,0
+H498,Past Lead 498,Past Contact,buyer498@pastlead498.in,Buyer,Other,2941,27,Manager,Mostly COD / no gateway,Event,0,0,3,5,4,0,48,0
+H499,Past Lead 499,Past Contact,buyer499@pastlead499.in,Buyer,D2C / E-commerce brand,501,84,Individual contributor,Mostly COD / no gateway,Paid ads,1,0,2,12,2,0,11,1
+H500,Past Lead 500,Past Contact,buyer500@pastlead500.in,Buyer,SaaS / Subscriptions,5799,44,Founder / CXO,Built in-house,Referral,1,0,4,2,5,0,6,0
